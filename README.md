@@ -5,10 +5,19 @@ Strategies learned from 200+ games
 
 Simon Brand
 
-### Liberal strategies
+## Liberal
+### Overview
+### Strategies
+#### Strategy name
+##### Description
+##### Advantages
+##### Disadvantages
 
-### Fascist strategies
+## Fascist
+### Overview
+### Strategies
 
-### Universal strategies
+
+## Universal strategies
 
 ### Crazy stuff
