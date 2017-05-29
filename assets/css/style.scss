@@ -18,10 +18,19 @@
 
 /* MEDIA QUERY MIXINS */
 /* FONT SIZE MIXINS */
- /* FONT SIZE PLACEHOLDERS */
+  /* FONT SIZE PLACEHOLDERS */
+h4 {
+    font-size: 1rem;
+    margin-top: 0rem;
+    margin-bottom: 0.7rem;
+}
+
+
 h3, big small, small big, .secret-font-size-normal {
-  font-size: 1rem;
-  line-height: 1.5555555556em; }
+    font-size: 1.4rem;
+    margin-top: 2.3rem;
+    margin-bottom: 1.2rem;
+}
 
 h2, big, .secret-font-size-subtitle, .secret-font-size-big {
   font-size: 2.4444444444rem;
@@ -744,7 +753,7 @@ ol ol, ul ul {
   .secret-card h3:not(.secret-text-center), .secret-card p:not(.secret-text-center) {
       text-align: left; }
   .secret-card h4:not(.secret-text-center), .secret-card p:not(.secret-text-center) {
-    text-align: left; }  
+    text-align: left; }
   .secret-card > img {
     vertical-align: top; }
   .secret-gitter-small > .secret-card > br, .secret-gitter-small > .secret-card > div, .secret-gitter-small > .secret-card > span, .secret-gitter-small > .secret-card > p, .secret-gitter-medium > .secret-card > br, .secret-gitter-medium > .secret-card > div, .secret-gitter-medium > .secret-card > span, .secret-gitter-medium > .secret-card > p {
@@ -1221,7 +1230,7 @@ h2::after {
       width: 100%;
 }
 
-  
+
 .secret-gitter-row {
     padding: 20px 0px;
 }
@@ -1229,7 +1238,7 @@ h2::after {
 hr {
     background: url("/assets/svgs/secret_dot-8415baa7.svg") repeat-x 0 0;
     border: 0;
-    
+
 }
 
 h2 {
@@ -1248,5 +1257,4 @@ h2 {
 
 h2:hover a {
     opacity: 1;
-}    
-
+}
