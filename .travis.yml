@@ -1,0 +1,5 @@
+---
+language: python
+install: "pip install proselint"
+
+script: "proselint index.md"
