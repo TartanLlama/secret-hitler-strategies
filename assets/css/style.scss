@@ -1231,3 +1231,22 @@ hr {
     border: 0;
     
 }
+
+h2 {
+    a{
+        transition: opacity 0.5s ease-in-out;
+        text-decoration: none;
+        opacity: 0;
+    }
+
+
+    i.fa-link{
+        font-size: large;
+        vertical-align: middle;
+    }
+}
+
+h2:hover a {
+    opacity: 1;
+}    
+
