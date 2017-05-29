@@ -1,4 +1,8 @@
-# Secret Hitler Strategies
+---
+layout: page
+title: Secret Hitler Strategy
+---
+
 Strategies learned from 300+ games
 
 ### Contributors
