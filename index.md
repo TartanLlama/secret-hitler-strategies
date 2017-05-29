@@ -11,6 +11,8 @@ Strategies learned from 300+ games
 
 Simon Brand, Mark M. Miller, Meenakshi Ravindran, Tatjana Starcenko, Fraser Cormack, Sean Jones
 
+--------------
+
 ## Game phases
 ### Setup
 When examining your envelope, be sure to examine both your party membership and role cards *even if you are a liberal*. Everyone should look at both their cards otherwise you can tell who is a fascist by whoever looked at both their cards. By looking at both cards, the game starts fairly for both teams and this cannot be used against anyone throughout. This is also important for all liberals to do since if a liberal does look at both cards you may be inclined to judge them as fascist for doing so.
@@ -76,6 +78,8 @@ TODO
 #### As a Fascist Chancellor
 TODO
 
+-----------------
+
 ## Fascist track powers
 When a Fascist policy is played, the President may get a special power to enact. These powers are can make or break the game, so a lot of attention should be payed to when the powers will be used, who will use them, and who you suspect they will use them on.
 
@@ -115,16 +119,22 @@ TODO
 This power is only available in 5/6 player games, but the version which is present in the rules is not particularly interesting for us. The problem is that if a Liberal looks at the top cards and says that there are Liberal policies at the top, then the Liberals can choose to just Brexit to get free Liberal plays. If a Fascist gets the power and lies, then it’s very easy for them to be outed. This can be addressed somewhat by either making the examiner shuffle the three cards before they put them back on top, or (our favourite) barring them from communicating what the cards were before all three have been played or discarded.
 
 
-### General Observations
-#### Disputes
+-----------------------
+
+## General Observations
+### Disputes
 When there is a dispute as a result of a governmental action (e.g. investigator claims to have seen a fascist but the investigatee claims to be a liberal or president claims to have passed across a liberal and that the chancellor discarded) this means that there is guaranteed to be at least one fascist within the pair. If there is a dispute exclude both players from play where possible. This means do not elect them to government, do not investigate them, do not nominate as chancellors and do not assassinate. The reason for this is that there is too much risk following and trusting one.
 
-#### Card Counting
+### Card Counting
 There are 17 cards in total: 6 liberal and 11 fascists.
 
 In the first round of governments there can be 5 functional governments before the deck needs to be shuffled (3 cards x 5 = 15). As such, in the first round you will see 15 cards as a group but the remaining two will be unknown as they get shuffled back in. For the second round after the deck is shuffled there should now be 12 cards in the deck. In round two you have the possibility of 4 governments which will then see all the cards If you get to the end of the second deck and the game isn’t over there will only be one more government after the shuffle.
 
 Causing a failed government three times (also known as Brexit or breakfast) will disrupt this order. In round 1 if you vote past the governments twice you can see all the cards. In round 2 the failed vote will result in more cards being hidden.
+
+---------------------
+
+## Per-team strategies
 
 ### Liberal strategies
 If you are a Liberal, don’t say that you’re Fascist. Maybe you think it’ll make it easier for you to be nominated when you *are* Fascist, but don’t be surprised if Liberals refuse to vote for your governments when you’re Liberal.
@@ -152,9 +162,8 @@ Playing liberal policies is often beneficial. It burns through liberal policies 
 
 ### Crazy stuff
 
-##### The Flip-Flop
+#### The Flip-Flop
 Early voting can be unproportionally counted on compared to other votes. In the first round of voting, Fascists have the advantage and it is likely that liberals will vote against, wasting a potential government. Flip-flopping between games can help mitigate this due to balancing skeptical Liberals to optimistic ones. WARNING: This has a side effect of unpredictable player meta; players may see you as untrustworthy because they cannot reason about your initial vote - especially if you were next in line to be President.
-
 
 Liberal investigating a fascist, claims they are a liberal, sits on that information for a while and then revealing that person is a fascist later.
 
@@ -164,8 +173,13 @@ Claiming to have accidentally played the wrong (i.e., fascist) policy.
 
 Being Liberal president, discarding liberals and forcing chancellor to play fascist to get power.
 
+-----------------
+
 ## Glossary
 Brexit - Voting down three governments in a row, thus causing a policy to be revealed at random. So-called because some players would vote “no” in order to register dissent, assuming that everyone else would vote yes, but if too many people do this, then the government will actually fail.
+
 Breakfast - Another name for Brexit
+
 Chain investigation - The second investigator in a 9/10 player game investigating the first investigator.
+
 Cut out - Someone who is still alive, but is no longer considered for Governments by the table due to them being in a dispute.

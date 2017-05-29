@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 /* COLORS */
 /* COLORS AS WE ACTUALLY USE THEM IN THE STYLES */
 /* TYPE SCALE */
@@ -20,7 +18,7 @@
 
 /* MEDIA QUERY MIXINS */
 /* FONT SIZE MIXINS */
-/* FONT SIZE PLACEHOLDERS */
+ /* FONT SIZE PLACEHOLDERS */
 h3, big small, small big, .secret-font-size-normal {
   font-size: 1rem;
   line-height: 1.5555555556em; }
@@ -35,6 +33,10 @@ h1, big big, .secret-font-size-title, .secret-font-size-biggest {
 
 /* TEXT MIXINS */
 /* TEXT PLACEHOLDERS */
+h4 {
+  font-family: "courier-prime", Courier, sans-serif;
+  font-weight: 400; }
+
 h3 {
   font-family: "courier-prime", Courier, sans-serif;
   font-weight: 400; }
@@ -48,6 +50,7 @@ h2 {
 h1 {
   font-family: "courier-prime", Courier, sans-serif;
   font-weight: 700; }
+
 
 /* GRID HACKS */
 .secret-boxed, .secret-card.secret-knockout .secret-middle, .secret-card.secret-knockout-red .secret-middle, .secret-card.secret-ribbon, footer {
@@ -325,6 +328,10 @@ h2 {
 h3 {
   font-weight: bold; }
 
+h4 {
+  font-weight: bold; }
+
+
 .secret-stamp {
   backface-visibility: hidden;
   -moz-backface-visibility: hidden;
@@ -332,7 +339,7 @@ h3 {
   background: #F7E1C3;
   background-clip: border-box;
   border: 34px solid #F7E1C3;
-  border-image: url("../assets/svgs/secret-buy-dots-e5a21ae4.svg") 43.1472081218% 43.1472081218% repeat repeat;
+  border-image: url("../svgs/secret-buy-dots-e5a21ae4.svg") 43.1472081218% 43.1472081218% repeat repeat;
   border-radius: 27.8px;
   bottom: 0;
   box-shadow: 0 4px 0 0 rgba(54, 50, 42, 0.52);
@@ -606,7 +613,7 @@ ol ol, ul ul {
         border-width: 20px; } }
     .secret-card.secret-ribbon:before {
       border-color: transparent;
-      border-image: url("../assets/svgs/secret_ribbon_edge-7b30ff81.svg") 25% repeat repeat;
+      border-image: url("../svgs/secret_ribbon_edge-7b30ff81.svg") 25% repeat repeat;
       border-image-outset: 7px;
       border-style: solid;
       border-width: 7px 0;
@@ -629,7 +636,7 @@ ol ol, ul ul {
           padding: 0 60px; } }
   .secret-card.secret-dogeared {
     background-color: transparent;
-    background-image: url("../assets/svgs/secret-dogear-328be2ee.svg"), linear-gradient(135deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 55px, #f7e1c3 55px, #f7e1c3 200%);
+    background-image: url("../svgs/secret-dogear-328be2ee.svg"), linear-gradient(135deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 55px, #f7e1c3 55px, #f7e1c3 200%);
     background-position: left top;
     background-size: 140px 140px, 100% 100%;
     background-repeat: no-repeat;
@@ -641,7 +648,7 @@ ol ol, ul ul {
     -ms-interpolation-mode: nearest-neighbor; }
   .secret-card.secret-dotted {
     border-color: #F7E1C3;
-    border-image: url("../assets/svgs/secret_dot_edge-13bd65cd.svg") 34% 34% repeat repeat;
+    border-image: url("../svgs/secret_dot_edge-13bd65cd.svg") 34% 34% repeat repeat;
     border-image-outset: 1.5px;
     border-style: solid;
     border-width: 20.5px;
@@ -650,7 +657,7 @@ ol ol, ul ul {
       .secret-card.secret-dotted {
         padding: 21px; } }
     .secret-card.secret-dotted.secret-bigger {
-      border-image: url("../assets/svgs/secret_big_dot_edge-16994316.svg") 37.5% 37.5% repeat repeat;
+      border-image: url("../svgs/secret_big_dot_edge-16994316.svg") 37.5% 37.5% repeat repeat;
       border-width: 19px;
       border-image-outset: 3px;
       padding: 4px; }
@@ -681,7 +688,7 @@ ol ol, ul ul {
       display: table; }
     .secret-card .secret-crease:before {
       background: transparent;
-      background-image: url("/assets/svgs/secret_dot-8415baa7.svg"), url("/assets/svgs/secret_dot-8415baa7.svg"), linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 2px, rgba(54, 50, 42, 0.15) 2px, rgba(54, 50, 42, 0.15) 100%), linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 2px, rgba(54, 50, 42, 0.15) 2px, rgba(54, 50, 42, 0.15) 100%);
+      background-image: url("/svgs/secret_dot-8415baa7.svg"), url("/svgs/secret_dot-8415baa7.svg"), linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 2px, rgba(54, 50, 42, 0.15) 2px, rgba(54, 50, 42, 0.15) 100%), linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 2px, rgba(54, 50, 42, 0.15) 2px, rgba(54, 50, 42, 0.15) 100%);
       background-position: center bottom, center top, center top, center bottom;
       background-repeat: repeat-x, repeat-x, no-repeat, no-repeat;
       background-size: 8px 3px, 8px 3px, 100% 50%, 100% 50%;
@@ -742,7 +749,9 @@ ol ol, ul ul {
       .secret-card h2 {
         margin-top: -10px; } }
   .secret-card h3:not(.secret-text-center), .secret-card p:not(.secret-text-center) {
-    text-align: left; }
+      text-align: left; }
+  .secret-card h4:not(.secret-text-center), .secret-card p:not(.secret-text-center) {
+    text-align: left; }  
   .secret-card > img {
     vertical-align: top; }
   .secret-gitter-small > .secret-card > br, .secret-gitter-small > .secret-card > div, .secret-gitter-small > .secret-card > span, .secret-gitter-small > .secret-card > p, .secret-gitter-medium > .secret-card > br, .secret-gitter-medium > .secret-card > div, .secret-gitter-medium > .secret-card > span, .secret-gitter-medium > .secret-card > p {
@@ -1152,7 +1161,7 @@ footer {
   padding-top: 150px; }
   #secret-pitch:before {
     background-color: transparent;
-    background-image: url("../assets/svgs/secret-tear-88b5e190.svg");
+    background-image: url("../svgs/secret-tear-88b5e190.svg");
     background-position: center center;
     background-repeat: repeat;
     background-size: 1040px 12px;
@@ -1184,7 +1193,7 @@ footer {
     -ms-transform: translateY(-15px) translateX(6px); }
 
 #secret-bg-video {
-  background-image: url("../assets/secret_poster-9e03a5c7.jpg");
+  background-image: url("../secret_poster-9e03a5c7.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: auto 100vh;
@@ -1202,3 +1211,22 @@ footer {
       background-size: 100% auto;
       height: auto;
       width: 100%; } }
+
+h2::after {
+      background: transparent;
+      background-image: url("/svgs/secret_dot-8415baa7.svg"), url("/svgs/secret_dot-8415baa7.svg"), linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 2px, rgba(54, 50, 42, 0.15) 2px, rgba(54, 50, 42, 0.15) 100%), linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 2px, rgba(54, 50, 42, 0.15) 2px, rgba(54, 50, 42, 0.15) 100%);
+      background-position: center bottom, center top, center top, center bottom;
+      background-repeat: repeat-x, repeat-x, no-repeat, no-repeat;
+      background-size: 8px 3px, 8px 3px, 100% 50%, 100% 50%;
+      bottom: 0;
+      box-sizing: content-box;
+      display: block;
+      height: 100%;
+      left: -20px;
+      padding: 30px 20px 0 20px;
+      pointer-events: none;
+      position: absolute;
+      width: 100%;
+}
+
+  
