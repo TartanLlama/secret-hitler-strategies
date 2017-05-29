@@ -260,7 +260,6 @@ em {
   font-style: italic; }
 
 hr {
-  background: #36322a;
   border: none;
   clear: both;
   display: block;
@@ -269,16 +268,10 @@ hr {
   margin: 0 0 28px;
   outline: none;
   padding: 0;
-  width: 100%; }
-  h2 + hr, .secret-boxed h2 + hr, .secret-card.secret-knockout .secret-middle h2 + hr, .secret-card.secret-knockout-red .secret-middle h2 + hr, .secret-card.secret-ribbon h2 + hr, footer h2 + hr {
-    margin-bottom: 40px; }
-  .secret-boxed hr, .secret-card.secret-knockout .secret-middle hr, .secret-card.secret-knockout-red .secret-middle hr, .secret-card.secret-ribbon hr, footer hr {
-    background-color: #F7E1C3;
-    height: 2px;
-    margin-bottom: 26px; }
-  hr:after {
-    content: '';
-    display: table; }
+  width: calc(100% + 120px);
+  position: relative;
+  left: -60px;
+}
 
 html {
   min-height: 100%;
@@ -339,7 +332,7 @@ h4 {
   background: #F7E1C3;
   background-clip: border-box;
   border: 34px solid #F7E1C3;
-  border-image: url("../svgs/secret-buy-dots-e5a21ae4.svg") 43.1472081218% 43.1472081218% repeat repeat;
+  border-image: url("../assets/svgs/secret-buy-dots-e5a21ae4.svg") 43.1472081218% 43.1472081218% repeat repeat;
   border-radius: 27.8px;
   bottom: 0;
   box-shadow: 0 4px 0 0 rgba(54, 50, 42, 0.52);
@@ -613,7 +606,7 @@ ol ol, ul ul {
         border-width: 20px; } }
     .secret-card.secret-ribbon:before {
       border-color: transparent;
-      border-image: url("../svgs/secret_ribbon_edge-7b30ff81.svg") 25% repeat repeat;
+      border-image: url("/assets/svgs/secret_ribbon_edge-7b30ff81.svg") 25% repeat repeat;
       border-image-outset: 7px;
       border-style: solid;
       border-width: 7px 0;
@@ -636,7 +629,7 @@ ol ol, ul ul {
           padding: 0 60px; } }
   .secret-card.secret-dogeared {
     background-color: transparent;
-    background-image: url("../svgs/secret-dogear-328be2ee.svg"), linear-gradient(135deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 55px, #f7e1c3 55px, #f7e1c3 200%);
+    background-image: url("../assets/svgs/secret-dogear-328be2ee.svg"), linear-gradient(135deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 55px, #f7e1c3 55px, #f7e1c3 200%);
     background-position: left top;
     background-size: 140px 140px, 100% 100%;
     background-repeat: no-repeat;
@@ -648,7 +641,7 @@ ol ol, ul ul {
     -ms-interpolation-mode: nearest-neighbor; }
   .secret-card.secret-dotted {
     border-color: #F7E1C3;
-    border-image: url("../svgs/secret_dot_edge-13bd65cd.svg") 34% 34% repeat repeat;
+    border-image: url("../assets/svgs/secret_dot_edge-13bd65cd.svg") 34% 34% repeat repeat;
     border-image-outset: 1.5px;
     border-style: solid;
     border-width: 20.5px;
@@ -657,7 +650,7 @@ ol ol, ul ul {
       .secret-card.secret-dotted {
         padding: 21px; } }
     .secret-card.secret-dotted.secret-bigger {
-      border-image: url("../svgs/secret_big_dot_edge-16994316.svg") 37.5% 37.5% repeat repeat;
+      border-image: url("../assets/svgs/secret_big_dot_edge-16994316.svg") 37.5% 37.5% repeat repeat;
       border-width: 19px;
       border-image-outset: 3px;
       padding: 4px; }
@@ -688,7 +681,7 @@ ol ol, ul ul {
       display: table; }
     .secret-card .secret-crease:before {
       background: transparent;
-      background-image: url("/svgs/secret_dot-8415baa7.svg"), url("/svgs/secret_dot-8415baa7.svg"), linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 2px, rgba(54, 50, 42, 0.15) 2px, rgba(54, 50, 42, 0.15) 100%), linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 2px, rgba(54, 50, 42, 0.15) 2px, rgba(54, 50, 42, 0.15) 100%);
+      background-image: url("/assets/svgs/secret_dot-8415baa7.svg"), url("/assets/svgs/secret_dot-8415baa7.svg"), linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 2px, rgba(54, 50, 42, 0.15) 2px, rgba(54, 50, 42, 0.15) 100%), linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 2px, rgba(54, 50, 42, 0.15) 2px, rgba(54, 50, 42, 0.15) 100%);
       background-position: center bottom, center top, center top, center bottom;
       background-repeat: repeat-x, repeat-x, no-repeat, no-repeat;
       background-size: 8px 3px, 8px 3px, 100% 50%, 100% 50%;
@@ -1123,7 +1116,6 @@ footer {
       margin-bottom: 42px; }
       #purchase hr.secret-or:after {
         background: #F0654B;
-        color: #F7E1C3;
         content: 'or';
         border-radius: 15px;
         display: block;
@@ -1161,7 +1153,7 @@ footer {
   padding-top: 150px; }
   #secret-pitch:before {
     background-color: transparent;
-    background-image: url("../svgs/secret-tear-88b5e190.svg");
+    background-image: url("../assets/svgs/secret-tear-88b5e190.svg");
     background-position: center center;
     background-repeat: repeat;
     background-size: 1040px 12px;
@@ -1214,7 +1206,7 @@ footer {
 
 h2::after {
       background: transparent;
-      background-image: url("/svgs/secret_dot-8415baa7.svg"), url("/svgs/secret_dot-8415baa7.svg"), linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 2px, rgba(54, 50, 42, 0.15) 2px, rgba(54, 50, 42, 0.15) 100%), linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 2px, rgba(54, 50, 42, 0.15) 2px, rgba(54, 50, 42, 0.15) 100%);
+      background-image: url("/assets/svgs/secret_dot-8415baa7.svg"), url("/assets/svgs/secret_dot-8415baa7.svg"), linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 2px, rgba(54, 50, 42, 0.15) 2px, rgba(54, 50, 42, 0.15) 100%), linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 2px, rgba(54, 50, 42, 0.15) 2px, rgba(54, 50, 42, 0.15) 100%);
       background-position: center bottom, center top, center top, center bottom;
       background-repeat: repeat-x, repeat-x, no-repeat, no-repeat;
       background-size: 8px 3px, 8px 3px, 100% 50%, 100% 50%;
@@ -1232,4 +1224,10 @@ h2::after {
   
 .secret-gitter-row {
     padding: 20px 0px;
+}
+
+hr {
+    background: url("/assets/svgs/secret_dot-8415baa7.svg") repeat-x 0 0;
+    border: 0;
+    
 }
