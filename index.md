@@ -9,7 +9,7 @@ Strategies learned from 300+ games
 
 ### Contributors
 
-Simon Brand, Mark M. Miller, Meenakshi Ravindran, Tatjana Starcenko, Fraser Cormack, Sean Jones
+Simon Brand, Fraser Cormack, Sean Jones, Mark M. Miller, Meenakshi Ravindran, Tatjana Starcenko
 
 --------------
 
