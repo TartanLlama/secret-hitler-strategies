@@ -83,12 +83,13 @@ TODO
 ## Fascist track powers
 When a Fascist policy is played, the President may get a special power to enact. These powers are can make or break the game, so a lot of attention should be payed to when the powers will be used, who will use them, and who you suspect they will use them on.
 
-###Investigations
+### Investigations
 When there is an investigation and the investigatee is called to be a Liberal, the probability of the investigatee being Liberal is slightly higher. The four possibilities are:
-Liberal President, Liberal Chancellor: Should always result in a liberal call
-FL: The Fascist President may accuse the Chancellor in order to create chaos, or they might call a Liberal to maintain cover
-LF: Should always result in a fascist call
-FF: Most of the time the president will call liberal, but they might sometimes call fascist to cause chaos.
+
+- Liberal President, Liberal Chancellor: Should always result in a liberal call
+- FL: The Fascist President may accuse the Chancellor in order to create chaos, or they might call a Liberal to maintain cover
+- LF: Should always result in a fascist call
+- FF: Most of the time the president will call liberal, but they might sometimes call fascist to cause chaos.
 
 When there is an investigation and the investigatee is called to be a Fascist, the probability of the investigator being Hitler is low. This is due to the the fact that Hitler generally wouldn’t want to create a dispute and bring attention to themselves. Due to our current strategy of soft-eliminating those in a dispute if Hitler was to create a dispute this would prevent a Hitler nomination victory.
 
@@ -103,9 +104,11 @@ If you are not, then you need to be very careful not to give the Fascists an eve
 It is very difficult to identify Hitler over the course of the game. If you have suspicion of someone for being Hitler you should be very sure before assassinating as Hitler could be disguised as the most Liberal player instead.
 
 For identifying Hitler for assassination, semi-valid reasons for assassinations can include but are not limited to the following:
-Support from particular players at odd times in the game for no particular reason
-As fascists have extra knowledge, they may accidentally side with Hitler early on with no justifiable reason.
-TODO
+
+- TODO
+
+
+Support from particular players at odd times in the game for no particular reason. As fascists have extra knowledge, they may accidentally side with Hitler early on with no justifiable reason.
 
 If you don’t know any Fascists, a more risky option is to kill the person you trust least from a dispute. The second assassination power can then be used to kill the other member of the dispute. This ensures that you have killed *at least* one Fascist, and therefore you haven’t unbalanced the voting. Of course, if you pick wrong on the first kill in an odd-player game then you could be in trouble, but it’s still possible to get back in control if Hitler doesn’t know who the other Fascists are.
 

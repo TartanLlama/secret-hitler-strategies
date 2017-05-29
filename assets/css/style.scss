@@ -438,7 +438,8 @@ dt {
   .secret-boxed dt, .secret-card.secret-knockout .secret-middle dt, .secret-card.secret-knockout-red .secret-middle dt, .secret-card.secret-ribbon dt, footer dt {
     color: #F7E1C3; }
 
-li {
+  li {
+      text-align: left;
   margin: 0 0 0.5em; }
 
 ol, ul {
