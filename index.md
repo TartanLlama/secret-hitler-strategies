@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: default
 title: Secret Hitler Strategy
 ---
+
+# Secret Hitler Strategy
 
 Strategies learned from 300+ games
 
