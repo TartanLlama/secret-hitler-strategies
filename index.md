@@ -5,11 +5,40 @@ title: Secret Hitler Strategy
 
 # Secret Hitler Strategy
 
-Strategies learned from 300+ games
+Introduction goes here.
 
-### Contributors
 
-Simon Brand, Fraser Cormack, Sean Jones, Mark M. Miller, Meenakshi Ravindran, Tatjana Starcenko
+--------------
+
+## Strategy overview
+
+### Liberals
+
+If you are a Liberal, don’t say that you’re Fascist. Maybe you think it’ll make it easier for you to be nominated when you *are* Fascist, but don’t be surprised if Liberals refuse to vote for your governments when you’re Liberal.
+
+Liberals never lie. Liberals should tell the truth and play liberal policies where possible as such when you play you should trust that your fellow liberal is not lying.
+
+Exceptions: Liberals might lie. If a liberal receives two or more liberal policies as a president or chancellor they may lie and instead claim they only received one. The motivation for this is to deny the fascists information about how many liberals have been discarded, and makes them less likely to discard liberals because it’s harder to convince the rest of the table that they got three fascists.
+
+Where possible you want to pass or play a liberal policy. As a President or Chancellor you will generally want to ensure that a liberal is played if you see one. As such, the default strategy is to simply pass one across or play one if you have been given it. This is a good all-round strategy that brings the liberals closer to victory.
+
+When unsure about your Chancellor choice, voting against your own candidate can provide information through votes. Where possible have the next President (which you deem likely a Liberal) also vote for the same Chancellor. If unsure (Hitler has been enabled) get the next two Presidents to follow the tactic.
+
+### Regular Fascists
+
+Fascists generally want to sow as much dissent and chaos as possible. Confused liberals generally keeps the fascists in a strong position. However you must watch out that you do not trip up over your own lies.
+
+It is often good as a fascist to play straightforward, logically and for the most part as a liberal. Doing so provides two key benefits. The first is a reasonable alibi “I’m a liberal and trying to be helpful! Why would I point out such a good plan if I was fascist?” if suspicion is pointed your way. The second comes if your cover becomes blown, this then can taint your good liberal logic and will cause others to look upon your recommendations with suspicion.
+
+Feigning ignorance is often a good way to cover up your manipulative actions. As strategies are formulated and the meta evolves, it's often easiest to claim “Ah! I didn’t realise that was a thing!” to cover up something that you may have done that seems out of the ordinary.
+
+Sometimes it works for fascists to create a double dispute. For example, when an investigation power to be opened,  fascist president forces chancellor to play a fascist policy and then claims, he gave a choice. When getting investigation power, investigate a liberal and claim he is a fascist. Since three people are in dispute, it is more difficult to exclude them from the game and players would be forced to take sides.
+
+Playing liberal policies is often beneficial. It burns through liberal policies (especially if you can discard one or two while doing so), meaning it is more likely that liberal governments will be forced to enact fascist policies. This increases trust for you and simultaneous increases distrust for later (well-meaning liberal) governments.
+
+### Hitler
+
+This section is still to be completed.
 
 --------------
 
@@ -137,32 +166,6 @@ Causing a failed government three times (also known as Brexit or breakfast) will
 
 ---------------------
 
-## Per-team strategies
-
-### Liberal strategies
-If you are a Liberal, don’t say that you’re Fascist. Maybe you think it’ll make it easier for you to be nominated when you *are* Fascist, but don’t be surprised if Liberals refuse to vote for your governments when you’re Liberal.
-
-Liberals never lie. Liberals should tell the truth and play liberal policies where possible as such when you play you should trust that your fellow liberal is not lying.
-
-Exceptions: Liberals might lie. If a liberal receives two or more liberal policies as a president or chancellor they may lie and instead claim they only received one. The motivation for this is to deny the fascists information about how many liberals have been discarded, and makes them less likely to discard liberals because it’s harder to convince the rest of the table that they got three fascists.
-
-Where possible you want to pass or play a liberal policy. As a President or Chancellor you will generally want to ensure that a liberal is played if you see one. As such, the default strategy is to simply pass one across or play one if you have been given it. This is a good all-round strategy that brings the liberals closer to victory.
-
-When unsure about your Chancellor choice, voting against your own candidate can provide information through votes. Where possible have the next President (which you deem likely a Liberal) also vote for the same Chancellor. If unsure (Hitler has been enabled) get the next two Presidents to follow the tactic.
-
-### Fascist strategies
-
-Fascists generally want to sow as much dissent and chaos as possible. Confused liberals generally keeps the fascists in a strong position. However you must watch out that you do not trip up over your own lies.
-
-It is often good as a fascist to play straightforward, logically and for the most part as a liberal. Doing so provides two key benefits. The first is a reasonable alibi “I’m a liberal and trying to be helpful! Why would I point out such a good plan if I was fascist?” if suspicion is pointed your way. The second comes if your cover becomes blown, this then can taint your good liberal logic and will cause others to look upon your recommendations with suspicion.
-
-Feigning ignorance is often a good way to cover up your manipulative actions. As strategies are formulated and the meta evolves, it's often easiest to claim “Ah! I didn’t realise that was a thing!” to cover up something that you may have done that seems out of the ordinary.
-
-Sometimes it works for fascists to create a double dispute. For example, when an investigation power to be opened,  fascist president forces chancellor to play a fascist policy and then claims, he gave a choice. When getting investigation power, investigate a liberal and claim he is a fascist. Since three people are in dispute, it is more difficult to exclude them from the game and players would be forced to take sides.
-
-Playing liberal policies is often beneficial. It burns through liberal policies (especially if you can discard one or two while doing so), meaning it is more likely that liberal governments will be forced to enact fascist policies. This increases trust for you and simultaneous increases distrust for later (well-meaning liberal) governments.
-
-
 ### Crazy stuff
 
 #### The Flip-Flop
@@ -175,6 +178,12 @@ Liberal President force their Chancellor to play a fascist to receive the invest
 Claiming to have accidentally played the wrong (i.e., fascist) policy.
 
 Being Liberal president, discarding liberals and forcing chancellor to play fascist to get power.
+
+-----------------
+
+## Contributors
+
+Simon Brand, Fraser Cormack, Sean Jones, Mark M. Miller, Meenakshi Ravindran, Tatjana Starcenko
 
 -----------------
 
