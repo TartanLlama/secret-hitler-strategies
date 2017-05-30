@@ -204,6 +204,6 @@ Cut out - Someone who is still alive, but is no longer considered for Government
 
 Liberal block/corner - A perceived group of Liberal players who are trusted by the majority
 
-Maverick cop - Someone who throws out crazy theories which might just be true
+Maverick cop - Someone who throws out unsubstantiated claims and their belief cannot be shaken.
 
 Wheelbarrow - Someone who is doing something so crazy they should be carted off.
