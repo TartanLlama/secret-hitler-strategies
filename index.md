@@ -21,15 +21,13 @@ If you have suggestions for additions or improvements to this guide, please subm
 
 ### Liberals
 
-If you are a Liberal, don’t say that you’re Fascist. Maybe you think it’ll make it easier for you to be nominated when you *are* Fascist, but don’t be surprised if Liberals refuse to vote for your governments when you’re Liberal.
+As a Liberal your aim is to ensire that Liberal policies are enacted and to discover fascists in order to execute or soft-eliminate them.
 
-Liberals never lie. Liberals should tell the truth and play liberal policies where possible as such when you play you should trust that your fellow liberal is not lying.
+Liberals should tell the truth about what they see, play, and discard. This is useful so that the Liberals have the maximum amount of information available to them when making decisions. If a Liberal is caught lying about something, it can seriously undermine their trust and make it easier for Fascists to infiltrate the Liberal block.
 
-Exceptions: Liberals might lie. If a liberal receives two or more liberal policies as a president or chancellor they may lie and instead claim they only received one. The motivation for this is to deny the fascists information about how many liberals have been discarded, and makes them less likely to discard liberals because it’s harder to convince the rest of the table that they got three fascists.
+Where possible you want to pass or play Liberal policies. As a President or Chancellor you will want to ensure that a Liberal is played if you see one. As such, the default strategy is to simply pass one across or play one if you have been given it. This is a good all-round strategy that brings the liberals closer to victory.
 
-Where possible you want to pass or play a liberal policy. As a President or Chancellor you will generally want to ensure that a liberal is played if you see one. As such, the default strategy is to simply pass one across or play one if you have been given it. This is a good all-round strategy that brings the liberals closer to victory.
-
-When unsure about your Chancellor choice, voting against your own candidate can provide information through votes. Where possible have the next President (which you deem likely a Liberal) also vote for the same Chancellor. If unsure (Hitler has been enabled) get the next two Presidents to follow the tactic.
+If you are a Liberal, don’t say that you’re Fascist. Some players do this to make it easier for you to be nominated when they *are* Fascist, but it just makes other players less likely to vote for their governments. If you do this as a Liberal, you are just harming your team.
 
 ### Regular Fascists
 
@@ -39,13 +37,14 @@ It is often good as a fascist to play straightforward, logically and for the mos
 
 Feigning ignorance is often a good way to cover up your manipulative actions. As strategies are formulated and the meta evolves, it's often easiest to claim “Ah! I didn’t realise that was a thing!” to cover up something that you may have done that seems out of the ordinary.
 
-Sometimes it works for fascists to create a double dispute. For example, when an investigation power to be opened,  fascist president forces chancellor to play a fascist policy and then claims, he gave a choice. When getting investigation power, investigate a liberal and claim he is a fascist. Since three people are in dispute, it is more difficult to exclude them from the game and players would be forced to take sides.
-
-Playing liberal policies is often beneficial. It burns through liberal policies (especially if you can discard one or two while doing so), meaning it is more likely that liberal governments will be forced to enact fascist policies. This increases trust for you and simultaneous increases distrust for later (well-meaning liberal) governments.
 
 ### Hitler
 
-This section is still to be completed.
+Hitler has the most sensitive role, as they can win or lose the game for the Fascists very easily. A good Hitler player can worm their way into the Liberal block and get themselves nominated while still playing Fascist cards when they think they can get away with it. A poor one may get discovered and make themselves a prime target for execution powers, undermining any results the other Fascists have been achieving.
+
+The most basic Hitler strategy is to just play as a straight liberal. Try to make all the same decisions you would make as a Liberal player; playing Liberal policies, discovering Fascists, voting conservatively. If you can do this well, you should have a reasonable amount of trust from the Liberal players to get you voted in as chancellor when it matters. Of course, with this strategy you are relying on the regular Fascists to enact the policies you need to win the game, but a straight Liberal Hitler play is a good idea if you aren't comfortable trying more advanced tactics.
+
+When you are more familiar with the game, you can try selectively discarding Liberal policies when you can plausibly deny doing so. However, try not to get in disputes with other players, as you could quickly find yourself cut out of the game with no chance of being elected for that early victory.
 
 --------------
 
@@ -57,7 +56,6 @@ This section is still to be completed.
 This section is still to be completed.
 #### As Hitler
 This section is still to be completed.
-
 
 ### Presidential Actions
 #### As a Liberal
@@ -93,6 +91,14 @@ When there is a dispute as a result of a governmental action (e.g. investigator 
 -----------------
 
 ## Advanced Strategy
+
+### Double dispute
+Sometimes it works for fascists to create a double dispute. For example, when an investigation power to be opened,  fascist president forces chancellor to play a fascist policy and then claims, he gave a choice. When getting investigation power, investigate a liberal and claim he is a fascist. Since three people are in dispute, it is more difficult to exclude them from the game and players would be forced to take sides.
+
+
+### Self-downvoting
+When unsure about your Chancellor choice, voting against your own candidate can provide information through votes. Where possible have the next President (which you deem likely a Liberal) also vote for the same Chancellor. If unsure (Hitler has been enabled) get the next two Presidents to follow the tactic.
+
 
 ### Maximising Presidency
 If you are a possible choice for President (i.e. within two clockwise spaces of the initial president since the vote count reset), then it can often make sense to vote down governments to maximise your chance of getting the Presidency and therefore having more of an influence over the game. This is particularly important if a strong power will activated if a Fascist policy is enacted. This is a general strategy that applies to both teams as you can trust yourself more than the others to make the right decision.
@@ -208,7 +214,9 @@ Chain investigation - The second investigator in a 9/10 player game investigatin
 
 Cut out - Someone who is still alive, but is no longer considered for Governments by the table due to them being in a dispute.
 
-Liberal block/corner - A perceived group of Liberal players who are trusted by the majority
+Liberal block/corner - A perceived group of Liberal players who are trusted by the majority.
+
+Soft elimination - When a player is cut out.
 
 Maverick cop - Someone who throws out unsubstantiated claims and their belief cannot be shaken.
 
