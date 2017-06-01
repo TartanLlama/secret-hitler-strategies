@@ -21,7 +21,7 @@ If you have suggestions for additions or improvements to this guide, please subm
 
 ### Liberals
 
-As a Liberal your aim is to ensire that Liberal policies are enacted and to discover fascists in order to execute or soft-eliminate them.
+As a Liberal your aim is to ensure that Liberal policies are enacted and to discover fascists in order to execute or soft-eliminate them.
 
 Liberals should tell the truth about what they see, play, and discard. This is useful so that the Liberals have the maximum amount of information available to them when making decisions. If a Liberal is caught lying about something, it can seriously undermine their trust and make it easier for Fascists to infiltrate the Liberal block.
 
