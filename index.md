@@ -40,7 +40,7 @@ Feigning ignorance is often a good way to cover up your manipulative actions. As
 
 ### Hitler
 
-Hitler has the most sensitive role, as they can win or lose the game for the Fascists very easily. A good Hitler player can worm their way into the Liberal block and get themselves nominated while still playing Fascist cards when they think they can get away with it. A poor one may get discovered and make themselves a prime target for execution powers, undermining any results the other Fascists have been achieving.
+Hitler has the most sensitive role, as they can easily win or lose the game for the Fascists. A good Hitler player can worm their way into the Liberal block and get themselves nominated while still playing Fascist cards when they think they can get away with it. A poor one may get discovered and make themselves a prime target for execution powers, undermining any results the other Fascists have been achieving.
 
 The most basic Hitler strategy is to just play as a straight liberal. Try to make all the same decisions you would make as a Liberal player; playing Liberal policies, discovering Fascists, voting conservatively. If you can do this well, you should have a reasonable amount of trust from the Liberal players to get you voted in as chancellor when it matters. Of course, with this strategy you are relying on the regular Fascists to enact the policies you need to win the game, but a straight Liberal Hitler play is a good idea if you aren't comfortable trying more advanced tactics.
 
@@ -51,7 +51,8 @@ When you are more familiar with the game, you can try selectively discarding Lib
 ## Basic Strategy
 ### Chancellor nomination
 #### As a Liberal
-This section is still to be completed.
+Since you want to ensure the play of as many Liberal policies as possible, you should nominate the player you trust the most to be chancellor. If you have little trust for any other player, you might want to pick a chancellor who has not been on a government yet to gather information on as many players as possible. Be careful when nominating a chancellor after three Fascist policies have been played, as the Fascists will win the game if Hitler is succesfully nominated. Note that if Hitler is playing well, they may be one of the most trusted players in the game. As such, you need to be on the lookout for strange votes which might point to Fascists pushing for a Hitler nomination.
+
 #### As a Fascist
 This section is still to be completed.
 #### As Hitler
