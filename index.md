@@ -143,8 +143,9 @@ When there is an investigation and the investigatee is called to be a Liberal, t
 
 - Liberal President, Liberal Chancellor: Should always result in a liberal call
 - FL: The Fascist President may accuse the Chancellor in order to create chaos, or they might call a Liberal to maintain cover
-- LF: Should always result in a Fascist call
-- FF: Most of the time the president will call Liberal, but they might sometimes call Fascist to cause chaos.
+- LF: Should always result in a fascist call
+  - See the [Experimental Strategy: The Slow Burn](#the-slow-burn)
+- FF: Most of the time the president will call liberal, but they might sometimes call fascist to cause chaos.
 
 When there is an investigation and the investigatee is called to be a Fascist, the probability of the investigator being Hitler is low. This is due to the fact that Hitler generally wouldn’t want to create a dispute and bring attention to themselves. Due to our current strategy of soft-eliminating those in a dispute if Hitler was to create a dispute this would prevent a Hitler nomination victory.
 
@@ -185,13 +186,17 @@ This power is only available in 5/6 player games, but the version which is prese
 ### The Flip-Flop
 Early voting can be unproportionally counted on compared to other votes. In the first round of voting, Fascists have the advantage and it is likely that Liberals will vote against, wasting a potential government. Flip-flopping between games can help mitigate this due to balancing skeptical Liberals to optimistic ones. WARNING: This has a side effect of unpredictable player meta; players may see you as untrustworthy because they cannot reason about your initial vote - especially if you were next in line to be President.
 
-Liberal investigating a Fascist, claims they are a liberal, sits on that information for a while and then revealing that person is a fascist later.
+### The Slow Burn
+Liberal investigating a fascist, claims they are a liberal, sits on that information for a while and then revealing that person is a fascist later.
 
-Liberal President force their Chancellor to play a Fascist to receive the investigation power (only available in 6+ player games) to investigate their Chancellor. An extension to this play happens when the Liberal President find their Chancellor is a Fascist but informs the other players that they are Liberal. The reaction the Fascist Chancellor may reveal if the Chancellor is a Fascist or Hitler. Hitler would may react to the move, whereas a Fascist may be startled by answer.
+### The Maverick Investigator
+Liberal President force their Chancellor to play a fascist to receive the investigation power (only available in 6+ player games) to investigate their Chancellor. An extension to this play happens when the Liberal President find their Chancellor is a Fascist but informs the other players that they are Liberal. The reaction the Fascist Chancellor may reveal if the Chancellor is a Fascist or Hitler. Hitler would may react to the move, whereas a Fascist may be startled by answer.
 
-Claiming to have accidentally played the wrong (i.e., Fascist) policy.
+### The Boy that Cried Wolf
+Claiming to have accidentally played the wrong (i.e., fascist) policy.
 
-Being Liberal president, discarding liberals and forcing chancellor to play Fascist to get power.
+### The Robin Hood
+Being Liberal president, discarding liberals and forcing chancellor to play fascist to get power.
 
 -----------------
 
