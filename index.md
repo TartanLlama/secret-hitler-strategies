@@ -146,7 +146,7 @@ There are only two ways to know for sure if someone is fascist:
 * Investigation
 * Be in direct dispute over a policy
 
-It is often safest to shoot whoever you are in a dispute with as a result of investigations of policy disputes. They may be less likely to be Hitler and this may not grant you much trust with others but the Liberals majority will increase. The alternative is to aim for someone else with the aim of shooting Hitler. The hard part is identifying them. The following reasons are possible reasons you may try to shoot Hitler:
+It is often safest to shoot whoever you are in a dispute with as a result of investigations or policy disputes. They are less likely to be Hitler, so other Liberals may question your choice, but increasing the Liberal majority is worthwhile. The alternative is to go after Hitler instead, the hard part is identifying them. Some reasons to suspect someone of being Hitler are:
 * Support from suspicious players with no prior justification.
 	* As Fascists have extra knowledge, they may side with Hitler early on in an attempt to help them build trust.
 
