@@ -10,7 +10,7 @@ title: The Unofficial Secret Hitler Strategy Guide
 
 [Secret Hitler](http://secrethitler.com/) is a social deduction game for 5–10 people about finding and stopping the Secret Hitler.
 
-The majority of players are liberals. If they can learn to trust each other, they have enough votes to control the table and win the game. But some players are fascists. They will say whatever it takes to get elected, enact their agenda, and blame others for the fallout. The liberals must work together to discover the truth before the fascists install their cold-blooded leader and win the game.
+The majority of players are Liberals. If they can learn to trust each other, they have enough votes to control the table and win the game. But some players are Fascists. They will say whatever it takes to get elected, enact their agenda, and blame others for the fallout. The liberals must work together to discover the truth before the fascists install their cold-blooded leader and win the game.
 
 This is an unofficial strategy guide for Secret Hitler. We wrote it to immortalise the insight gained from our group's 400+ games in the form of a living document. We will continue to update this guide as we butcher our metagame and reassemble it into some horrifying meta-Frankenstein's monster.
 
@@ -30,7 +30,7 @@ If you have suggestions for additions or improvements to this guide, please subm
 
 ### Liberals
 
-As a Liberal your aim is to ensure that Liberal policies are enacted and to discover fascists in order to execute or soft-eliminate them.
+As a Liberal your aim is to ensure that Liberal policies are enacted and to discover Fascists in order to execute or soft-eliminate them.
 
 Liberals should tell the truth about what they see, play, and discard. This is useful so that the Liberals have the maximum amount of information available to them when making decisions. If a Liberal is caught lying about something, it can seriously undermine their trust and make it easier for Fascists to infiltrate the Liberal block.
 
@@ -40,9 +40,9 @@ If you are a Liberal, don’t say that you’re Fascist. Some players do this to
 
 ### Regular Fascists
 
-Fascists generally want to sow as much dissent and chaos as possible. Confused liberals generally keeps the fascists in a strong position. However you must watch out that you do not trip up over your own lies.
+Fascists generally want to sow as much dissent and chaos as possible. Confused Liberals generally keeps the fascists in a strong position. However you must watch out that you do not trip up over your own lies.
 
-It is often good as a fascist to play straightforward, logically and for the most part as a liberal. Doing so provides two key benefits. The first is a reasonable alibi “I’m a liberal and trying to be helpful! Why would I point out such a good plan if I was fascist?” if suspicion is pointed your way. The second comes if your cover becomes blown, this then can taint your good liberal logic and will cause others to look upon your recommendations with suspicion.
+It is often good as a Fascist to play straightforward, logically and for the most part as a Liberal. Doing so provides two key benefits. The first is a reasonable alibi “I’m a liberal and trying to be helpful! Why would I point out such a good plan if I was fascist?” if suspicion is pointed your way. The second comes if your cover becomes blown, this then can taint your good liberal logic and will cause others to look upon your recommendations with suspicion.
 
 Feigning ignorance is often a good way to cover up your manipulative actions. As strategies are formulated and the meta evolves, it's often easiest to claim “Ah! I didn’t realise that was a thing!” to cover up something that you may have done that seems out of the ordinary.
 
@@ -51,7 +51,7 @@ Feigning ignorance is often a good way to cover up your manipulative actions. As
 
 Hitler has the most sensitive role, as they can easily win or lose the game for the Fascists. A good Hitler player can worm their way into the Liberal block and get themselves nominated while still playing Fascist cards when they think they can get away with it. A poor one may get discovered and make themselves a prime target for execution powers, undermining any results the other Fascists have been achieving.
 
-The most basic Hitler strategy is to just play as a straight liberal. Try to make all the same decisions you would make as a Liberal player; playing Liberal policies, discovering Fascists, voting conservatively. If you can do this well, you should have a reasonable amount of trust from the Liberal players to get you voted in as chancellor when it matters. Of course, with this strategy you are relying on the regular Fascists to enact the policies you need to win the game, but a straight Liberal Hitler play is a good idea if you aren't comfortable trying more advanced tactics.
+The most basic Hitler strategy is to just play as a straight Liberal. Try to make all the same decisions you would make as a Liberal player; playing Liberal policies, discovering Fascists, voting conservatively. If you can do this well, you should have a reasonable amount of trust from the Liberal players to get you voted in as chancellor when it matters. Of course, with this strategy you are relying on the regular Fascists to enact the policies you need to win the game, but a straight Liberal Hitler play is a good idea if you aren't comfortable trying more advanced tactics.
 
 When you are more familiar with the game, you can try selectively discarding Liberal policies when you can plausibly deny doing so. However, try not to get in disputes with other players, as you could quickly find yourself cut out of the game with no chance of being elected for that early victory.
 
@@ -95,7 +95,7 @@ This section is still to be completed.
 This section is still to be completed.
 
 ### Disputes
-When there is a dispute as a result of a governmental action (e.g. investigator claims to have seen a fascist but the investigatee claims to be a liberal or president claims to have passed across a liberal and that the chancellor discarded) this means that there is guaranteed to be at least one fascist within the pair. If there is a dispute exclude both players from play where possible. This means do not elect them to government, do not investigate them, do not nominate as chancellors and do not assassinate. The reason for this is that there is too much risk following and trusting one.
+When there is a dispute as a result of a governmental action (e.g. investigator claims to have seen a Fascist but the investigatee claims to be a Liberal or president claims to have passed across a liberal and that the chancellor discarded) this means that there is guaranteed to be at least one fascist within the pair. If there is a dispute exclude both players from play where possible. This means do not elect them to government, do not investigate them, do not nominate as chancellors and do not assassinate. The reason for this is that there is too much risk following and trusting one.
 
 
 -----------------
@@ -103,7 +103,7 @@ When there is a dispute as a result of a governmental action (e.g. investigator 
 ## Advanced Strategy
 
 ### Double dispute
-Sometimes it works for fascists to create a double dispute. For example, when an investigation power to be opened,  fascist president forces chancellor to play a fascist policy and then claims, he gave a choice. When getting investigation power, investigate a liberal and claim he is a fascist. Since three people are in dispute, it is more difficult to exclude them from the game and players would be forced to take sides.
+Sometimes it works for Fascists to create a double dispute. For example, when an investigation power to be opened,  fascist president forces chancellor to play a fascist policy and then claims, he gave a choice. When getting investigation power, investigate a Liberal and claim he is a fascist. Since three people are in dispute, it is more difficult to exclude them from the game and players would be forced to take sides.
 
 
 ### Self-downvoting
@@ -116,13 +116,13 @@ If you are a possible choice for President (i.e. within two clockwise spaces of 
 An exception to this rule is that Hitler may avoid becoming President. This can be for multiple reasons including allowing themselves to become Chancellor for victory in the future, they might not trust themselves with the assassination or they might prefer other players use the investigation.
 
 ### Reveal trickery
-#### As a liberal president
+#### As a Liberal president
 If the Chancellor plays a Liberal, then all is (mostly) well. If a Fascist is played, however, you have a choice to make. You could inform the table immediately that the Chancellor discarded a Liberal and is therefore Fascist; this will put you in dispute with the Chancellor and could result in a soft-elimination depending on the number of players and established meta. For the most part this is a good strategy, as the Liberals have the majority taking down a Fascist this way still maintains the Liberal majority. Alternatively you can keep the information to yourself until it becomes necessary to reveal it. This will put pressure on the Chancellor as they will be waiting for you to reveal their betrayal so that they can best counter your accusation. They may out themselves by reacting to your lack of reaction, or by making other mistakes due to them being on-edge.
 
 Regardless of the action you took, you need to decide whether or not to reveal what cards you drew and what you discarded. Generally, honesty as a Liberal is the best policy. However, if you draw more than one Liberal, it can make sense to lie and say that you only received one. This will create the illusion that there are more Liberals in the deck then there actually are, so the Fascists will be less likely to discard one for fear of being discovered. However, you should probably reveal this information when the deck is to be shuffled so that the plays can be correctly analysed by your fellow Liberals.
 
 ### Card Counting
-There are 17 cards in total: 6 liberal and 11 fascists.
+There are 17 cards in total: 6 Liberal and 11 Fascists.
 
 In the first round of governments there can be 5 functional governments before the deck needs to be shuffled (3 cards x 5 = 15). As such, in the first round you will see 15 cards as a group but the remaining two will be unknown as they get shuffled back in. For the second round after the deck is shuffled there should now be 12 cards in the deck. In round two you have the possibility of 4 governments which will then see all the cards If you get to the end of the second deck and the game isn’t over there will only be one more government after the shuffle.
 
@@ -138,14 +138,14 @@ When there is an investigation and the investigatee is called to be a Liberal, t
 
 - Liberal President, Liberal Chancellor: Should always result in a liberal call
 - FL: The Fascist President may accuse the Chancellor in order to create chaos, or they might call a Liberal to maintain cover
-- LF: Should always result in a fascist call
-- FF: Most of the time the president will call liberal, but they might sometimes call fascist to cause chaos.
+- LF: Should always result in a Fascist call
+- FF: Most of the time the president will call Liberal, but they might sometimes call Fascist to cause chaos.
 
 When there is an investigation and the investigatee is called to be a Fascist, the probability of the investigator being Hitler is low. This is due to the fact that Hitler generally wouldn’t want to create a dispute and bring attention to themselves. Due to our current strategy of soft-eliminating those in a dispute if Hitler was to create a dispute this would prevent a Hitler nomination victory.
 
 The investigation is almost always more useful than it is a hindrance. **Do not Brexit and lose the power**.
 
-Chain investigations in 9/10 player games are almost always a bad idea. They limit the amount of information you can get and can cause chaos late in the game if you draw incorrect conclusions from them. They are also difficult to trust, because at least two members of the chain will have been fascist-playing presidents, since that’s how one gets the investigation power. You should keep this in mind when nominating presidents; if a player has been investigated and called a Liberal, you should **not** vote for them as president until the second investigation power has been used. If that player is nominated and happens to draw three Fascist policies (or pretends to), then the table will have inadvertently caused a chain investigation.
+Chain investigations in 9/10 player games are almost always a bad idea. They limit the amount of information you can get and can cause chaos late in the game if you draw incorrect conclusions from them. They are also difficult to trust, because at least two members of the chain will have been Fascist-playing presidents, since that’s how one gets the investigation power. You should keep this in mind when nominating presidents; if a player has been investigated and called a Liberal, you should **not** vote for them as president until the second investigation power has been used. If that player is nominated and happens to draw three Fascist policies (or pretends to), then the table will have inadvertently caused a chain investigation.
 
 ### Executions
 #### As a Liberal
@@ -158,7 +158,7 @@ For identifying Hitler for assassination, semi-valid reasons for assassinations 
 - This section is still to be completed.
 
 
-Support from particular players at odd times in the game for no particular reason. As fascists have extra knowledge, they may accidentally side with Hitler early on with no justifiable reason.
+Support from particular players at odd times in the game for no particular reason. As Fascists have extra knowledge, they may accidentally side with Hitler early on with no justifiable reason.
 
 If you don’t know any Fascists, a more risky option is to kill the person you trust least from a dispute. The second assassination power can then be used to kill the other member of the dispute. This ensures that you have killed *at least* one Fascist, and therefore you haven’t unbalanced the voting. Of course, if you pick wrong on the first kill in an odd-player game then you could be in trouble, but it’s still possible to get back in control if Hitler doesn’t know who the other Fascists are.
 
@@ -178,22 +178,22 @@ This power is only available in 5/6 player games, but the version which is prese
 ## Experimental strategy
 
 ### The Flip-Flop
-Early voting can be unproportionally counted on compared to other votes. In the first round of voting, Fascists have the advantage and it is likely that liberals will vote against, wasting a potential government. Flip-flopping between games can help mitigate this due to balancing skeptical Liberals to optimistic ones. WARNING: This has a side effect of unpredictable player meta; players may see you as untrustworthy because they cannot reason about your initial vote - especially if you were next in line to be President.
+Early voting can be unproportionally counted on compared to other votes. In the first round of voting, Fascists have the advantage and it is likely that Liberals will vote against, wasting a potential government. Flip-flopping between games can help mitigate this due to balancing skeptical Liberals to optimistic ones. WARNING: This has a side effect of unpredictable player meta; players may see you as untrustworthy because they cannot reason about your initial vote - especially if you were next in line to be President.
 
-Liberal investigating a fascist, claims they are a liberal, sits on that information for a while and then revealing that person is a fascist later.
+Liberal investigating a Fascist, claims they are a liberal, sits on that information for a while and then revealing that person is a fascist later.
 
-Liberal President force their Chancellor to play a fascist to receive the investigation power (only available in 6+ player games) to investigate their Chancellor. An extension to this play happens when the Liberal President find their Chancellor is a Fascist but informs the other players that they are Liberal. The reaction the Fascist Chancellor may reveal if the Chancellor is a Fascist or Hitler. Hitler would may react to the move, whereas a Fascist may be startled by answer.
+Liberal President force their Chancellor to play a Fascist to receive the investigation power (only available in 6+ player games) to investigate their Chancellor. An extension to this play happens when the Liberal President find their Chancellor is a Fascist but informs the other players that they are Liberal. The reaction the Fascist Chancellor may reveal if the Chancellor is a Fascist or Hitler. Hitler would may react to the move, whereas a Fascist may be startled by answer.
 
-Claiming to have accidentally played the wrong (i.e., fascist) policy.
+Claiming to have accidentally played the wrong (i.e., Fascist) policy.
 
-Being Liberal president, discarding liberals and forcing chancellor to play fascist to get power.
+Being Liberal president, discarding liberals and forcing chancellor to play Fascist to get power.
 
 -----------------
 
 ## Etiquette
 
 ### Setup
-When examining your envelope, be sure to examine both your party membership and role cards **even if you are a liberal**. Everyone should look at both their cards otherwise you can tell who is a fascist by whoever looked at both their cards. By looking at both cards, the game starts fairly for both teams and this cannot be used against anyone throughout. This is also important for all liberals to do since if a liberal does look at both cards you may be inclined to judge them as fascist for doing so.
+When examining your envelope, be sure to examine both your party membership and role cards **even if you are a Liberal**. Everyone should look at both their cards otherwise you can tell who is a Fascist by whoever looked at both their cards. By looking at both cards, the game starts fairly for both teams and this cannot be used against anyone throughout. This is also important for all liberals to do since if a liberal does look at both cards you may be inclined to judge them as fascist for doing so.
 
 ### Voting
 We aim to make it the responsibility of the current President to call the vote. This allows the President to begin the countdown after the Chancellor has been selected.
