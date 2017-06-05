@@ -32,3 +32,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+kramdown:
+  toc_levels: 2..3

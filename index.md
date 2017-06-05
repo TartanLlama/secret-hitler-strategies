@@ -6,6 +6,7 @@ title: The Unofficial Secret Hitler Strategy Guide
 # The Unofficial Secret Hitler Strategy Guide
 
 ### WORK IN PROGRESS
+{:.no_toc}
 
 [Secret Hitler](http://secrethitler.com/) is a social deduction game for 5–10 people about finding and stopping the Secret Hitler.
 
@@ -14,6 +15,14 @@ The majority of players are liberals. If they can learn to trust each other, the
 This is an unofficial strategy guide for Secret Hitler. We wrote it to immortalise the insight gained from our group's 400+ games in the form of a living document. We will continue to update this guide as we butcher our metagame and reassemble it into some horrifying meta-Frankenstein's monster.
 
 If you have suggestions for additions or improvements to this guide, please submit an issue or pull request to the repository [here](https://github.com/TartanLlama/secret-hitler-strategies).
+
+--------------
+
+## Table of Contents
+{:.no_toc}
+
+1. TOC will be output here
+{:toc}
 
 --------------
 
@@ -141,7 +150,7 @@ When there is an investigation and the investigatee is called to be a Fascist, t
 
 The investigation is almost always more useful than it is a hindrance. **Do not Brexit and lose the power**.
 
-Chain investigations in 9/10 player games are almost always a bad idea. They limit the amount of information you can get and can cause chaos late in the game if you draw incorrect conclusions from them. They are also difficult to trust, because at least two members of the chain will have been fascist-playing presidents, since that’s how one gets the investigation power.
+Chain investigations in 9/10 player games are almost always a bad idea. They limit the amount of information you can get and can cause chaos late in the game if you draw incorrect conclusions from them. They are also difficult to trust, because at least two members of the chain will have been fascist-playing presidents, since that’s how one gets the investigation power. You should keep this in mind when nominating presidents; if a player has been investigated and called a Liberal, you should **not** vote for them as president until the second investigation power has been used. If that player is nominated and happens to draw three Fascist policies (or pretends to), then the table will have inadvertently caused a chain investigation.
 
 ### Executions
 #### As a Liberal
