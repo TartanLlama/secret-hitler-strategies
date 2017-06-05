@@ -136,7 +136,7 @@ When there is an investigation and the investigatee is called to be a Fascist, t
 
 The investigation is almost always more useful than it is a hindrance. **Do not Brexit and lose the power**.
 
-Chain investigations in 9/10 player games are almost always a bad idea. They limit the amount of information you can get and can cause chaos late in the game if you draw incorrect conclusions from them. They are also difficult to trust, because at least two members of the chain will have been fascist-playing presidents, since that’s how one gets the investigation power.
+Chain investigations in 9/10 player games are almost always a bad idea. They limit the amount of information you can get and can cause chaos late in the game if you draw incorrect conclusions from them. They are also difficult to trust, because at least two members of the chain will have been fascist-playing presidents, since that’s how one gets the investigation power. You should keep this in mind when nominating presidents; if a player has been investigated and called a Liberal, you should **not** vote for them as president until the second investigation power has been used. If that player is nominated and happens to draw three Fascist policies (or pretends to), then the table will have inadvertently caused a chain investigation.
 
 ### Executions
 #### As a Liberal
