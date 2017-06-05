@@ -26,6 +26,32 @@ If you have suggestions for additions or improvements to this guide, please subm
 
 --------------
 
+## Rules
+Secret Hitler doesn't have many rules, the complexity of the game stems from the social situations the rules create. Each player is secretly assigned to a political party at the start of the game - the Liberals or the Fascists. There are more Liberals than there are Fascists.
+
+No. of Players  | 5     | 6     | 7     | 8     | 9     | 10
+--------------- | ----- | ----- | ----- | ----- | ----- | -----
+No. of Liberals | 3     | 4     | 4     | 5     | 5     | 6
+No. of Fascists | 1 + H | 1 + H | 2 + H | 2 + H | 3 + H | 3 + H
+
+Every player also has a role card - all Liberals have the Liberal role, while one of the Fascists has the Hitler role and the rest have the Fascist role. All the Fascists know who each other are - except Hitler, the other Fascists know who he/she is, but he/she does not know who the other Fascists are.
+
+The Liberal team wins when five Liberal policies are enacted or when Hitler is assassinated, whereas the Fascist team wins when six Fascist policies are enacted or Hitler is elected chancellor at any point after the third Fascist policy is enacted.
+
+There are eleven Fascist policies and six Liberal policies in the deck.
+
+When Fascist policies are enacted, the president of the current government is granted a one-time ability which must be used before the next election begins. Both Liberal and Fascist presidents can use the abilities.
+
+Secret Hitler features a sequence of elections. One player is chosen to start and has to choose another player to be chancellor to his/her president for the first election. All the other players must then vote to accept or reject the government. Players that were part of the most recent previous government cannot be chosen as chancellor. The president and chancellor who are up for election can vote.
+
+If a government is elected, then the president takes the top three electoral policies from the deck and can choose to discard one to the discard pile. The president then passes the remaining two policies to the chancellor, who can discard a policy and then play the policy that remains. If three or more Fascist policies have been played at this point, electing Hitler as chancellor will win the game for the Fascists. When selecting a policy, verbal and non-verbal communication between the president and the chancellor is forbidden.
+
+If a government is not elected, then the next player clockwise is chosen to choose the next government as president and the game repeats. Each time a government is not elected. If three elections are rejected, then the topmost policy in the deck is played and the previous president and chancellor are eligible for selection again.
+
+If there are less than three policies remaining in the deck then the discard pile and deck are combined and shuffled.
+
+For more details, it is recommended that the [official Secret Hitler rules](http://www.secrethitler.com/assets/Secret_Hitler_Rules.pdf) are reviewed.
+
 ## Strategy overview
 
 ### Liberals
