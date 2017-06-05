@@ -6,6 +6,7 @@ title: The Unofficial Secret Hitler Strategy Guide
 # The Unofficial Secret Hitler Strategy Guide
 
 ### WORK IN PROGRESS
+{:.no_toc}
 
 [Secret Hitler](http://secrethitler.com/) is a social deduction game for 5–10 people about finding and stopping the Secret Hitler.
 
@@ -14,6 +15,14 @@ The majority of players are liberals. If they can learn to trust each other, the
 This is an unofficial strategy guide for Secret Hitler. We wrote it to immortalise the insight gained from our group's 400+ games in the form of a living document. We will continue to update this guide as we butcher our metagame and reassemble it into some horrifying meta-Frankenstein's monster.
 
 If you have suggestions for additions or improvements to this guide, please submit an issue or pull request to the repository [here](https://github.com/TartanLlama/secret-hitler-strategies).
+
+--------------
+
+## Table of Contents
+{:.no_toc}
+
+1. TOC will be output here
+{:toc}
 
 --------------
 
@@ -54,9 +63,14 @@ When you are more familiar with the game, you can try selectively discarding Lib
 Since you want to ensure the play of as many Liberal policies as possible, you should nominate the player you trust the most to be chancellor. If you have little trust for any other player, you might want to pick a chancellor who has not been on a government yet to gather information on as many players as possible. Be careful when nominating a chancellor after three Fascist policies have been played, as the Fascists will win the game if Hitler is succesfully nominated. Note that if Hitler is playing well, they may be one of the most trusted players in the game. As such, you need to be on the lookout for strange votes which might point to Fascists pushing for a Hitler nomination.
 
 #### As a Fascist
-This section is still to be completed.
+As a Fascist, you are one of the few players who has full knowledge of everyone's roles. However, you must be careful not to give away too much information with your nominations. At the early stages of the game when few governments have gone through it is often best to stay undercover. One option is to not take sides and pick chancellors that the group considers reasonable. Sometimes this will allow you to put two Fascists into a government but don't worry too much if it doesn't happen. 
+
+After the placement of three Fascist policies you must be more aware of your nominations. At this stage watch out for Liberal players hunting for suspicious nominations. As a Fascist you must balance up your desire to nominate Hitler or a fellow Fascist with hiding your identity by putting through a sub-optimal government. All it takes to spoil trust gained for Hitler in the early stages of the game is for a Fascist to be too eager to approve it. You must also gauge the group's suspicion of you at this stage and you may instead try to shift it onto unsuspecting Liberals. Bearing in mind what may make nominating Hitler suspicious you can do the same towards a Liberal. One way to do this is to act as if a Liberal is Hitler by nominating them or voting for them when it is seemingly illogical to do so.
+
 #### As Hitler
-This section is still to be completed.
+When playing as Hitler, you should nominate in the same way as a Liberal. Since you do not have knowledge of the roles of other players in the game this should be easy. Do not worry about trying to find your fellow Fascists as they will often signal to you where possible. Often you will want to build trustworthy governments. This will then allow you to push for yourself to be chancellor later.
+
+If you have managed to work out the identity of your fellow Fascists it can be useful to have them on a government. This will allow you to collaborate to ensure Fascist policies go down. The only thing to watch out for here is whether they have suspicion on them already. If they do, this can often reflect on yourself and lead to distrust.
 
 ### Presidential Actions
 #### As a Liberal
