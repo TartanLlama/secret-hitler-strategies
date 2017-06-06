@@ -1238,7 +1238,7 @@ hr {
 
 }
 
-h2 {
+h2, h3, h4 {
     a{
         transition: opacity 0.5s ease-in-out;
         text-decoration: none;
@@ -1247,12 +1247,13 @@ h2 {
 
 
     i.fa-link{
-        font-size: large;
+        padding-left: 6px;
+        font-size: 0.8em;
         vertical-align: middle;
     }
 }
 
-h2:hover a {
+h2:hover a, h3:hover a, h4:hover a {
     opacity: 1;
 }
 
