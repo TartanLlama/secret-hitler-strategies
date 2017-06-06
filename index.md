@@ -221,11 +221,14 @@ It is also recommended that you do not leave votes lying out even if your intent
 
 -----------------
 
-## License
+## License and Attribution
 
-[![Creative Commons Licence](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Creative Commons Licence](assets/img/by-nc-sa.png){:.licenseimg}](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 
 The Unofficial Secret Hitler Strategy Guide by the Edinburgh Secret Hitler Group is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+Secret Hitler was created by Mike Boxleiter, Tommy Maranges, Max Temkin, and Mac Schubert. It is also licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 -----------------
 
