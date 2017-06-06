@@ -221,6 +221,14 @@ It is also recommended that you do not leave votes lying out even if your intent
 
 -----------------
 
+## License
+
+[![Creative Commons Licence](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+The Unofficial Secret Hitler Strategy Guide by the Edinburgh Secret Hitler Group is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+-----------------
+
 ## Glossary
 
 Brexit - Voting down three governments in a row, thus causing a policy to be revealed at random. So-called because some players would vote “no” in order to register dissent, assuming that everyone else would vote yes, but if too many people do this, then the government will actually fail.
