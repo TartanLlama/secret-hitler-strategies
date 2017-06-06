@@ -1270,3 +1270,9 @@ h5:before {counter-increment: h5; content: counter(h2) "." counter(h3) "." count
 h6:before {counter-increment: h6; content: counter(h2) "." counter(h3) "." counter(h4) "." counter(h5) "." counter(h6) ". "}
 
 h2.no_toc:before, h3.no_toc:before, h4.no_toc:before, h5.no_toc:before, h6.no_toc:before { content: ""; counter-increment: none }
+
+.licenseimg {
+    width: 200px;
+    display: block;
+    margin: auto;
+}
