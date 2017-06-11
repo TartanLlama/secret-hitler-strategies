@@ -32,10 +32,10 @@ Secret Hitler doesn't have many rules, the complexity of the game stems from the
 
 Each player is secretly assigned to a role and a party membership at the start of the game. There are two parties a player can be a part of - the Liberals and the Fascists. Every Liberal player also has the Liberal role and all but one Fascist has the Fascist role. The remaining Fascist player has the Hitler role. There are more Liberals than there are Fascists, this depends on the number of players in the game, as shown in the table below.
 
-No. of Players  | 5     | 6     | 7     | 8     | 9     | 10
---------------- | ----- | ----- | ----- | ----- | ----- | -----
-No. of Liberals | 3     | 4     | 4     | 5     | 5     | 6
-No. of Fascists | 1 + H | 1 + H | 2 + H | 2 + H | 3 + H | 3 + H
+No. of Players  | 5   | 6   | 7   | 8   | 9   | 10
+--------------- | ----| --- | --- | --- | --- | ---
+No. of Liberals | 3   | 4   | 4   | 5   | 5   | 6
+No. of Fascists | 1+H | 1+H | 2+H | 2+H | 3+H | 3+H
 
 Hitler does not know who the other Fascists are but the other Fascists all know who the other Fascists are. There is a deck of Liberal and Fascist policies. There are eleven Fascist policies and six Liberal policies in the deck. An exception to this is that in a five player game, Hitler knows who the other Fascists are.
 
