@@ -37,11 +37,11 @@ No. of Players  | 5     | 6     | 7     | 8     | 9     | 10
 No. of Liberals | 3     | 4     | 4     | 5     | 5     | 6
 No. of Fascists | 1 + H | 1 + H | 2 + H | 2 + H | 3 + H | 3 + H
 
-Hitler does not know who the other Fascists are but the other Fascists all know who the other Fascists are. There is a deck of Liberal and Fascist policies. There are eleven Fascist policies and six Liberal policies in the deck.
+Hitler does not know who the other Fascists are but the other Fascists all know who the other Fascists are. There is a deck of Liberal and Fascist policies. There are eleven Fascist policies and six Liberal policies in the deck. An exception to this is that in a five player game, Hitler knows who the other Fascists are.
 
 The Liberal team wins when five Liberal policies are enacted or when Hitler is assassinated, whereas the Fascist team wins when six Fascist policies are enacted or Hitler is elected chancellor at any point after the third Fascist policy is enacted.
 
-One player is chosen to start as the first presidential candidate and has to choose another player to be their chancellor for the first election. All the other players must then vote to accept or reject the government. A majority is required to pass a government.  Players that were part of the most recent previous government cannot be chosen as chancellor. The president and chancellor who are up for election can vote.
+One player is chosen to start as the first presidential candidate and has to choose another player to be their chancellor for the first election. All the other players must then vote to accept or reject the government. A majority is required to pass a government. Players that were part of the most recent previous government cannot be chosen as chancellor. The president and chancellor who are up for election can vote.
 
 If a government is elected, then the president takes the top three electoral policies from the deck and must discard one to the discard pile. The president then passes the remaining two policies to the chancellor, who must discard another policy and then enact whichever policy remains. The president and chancellor are under no requirement to say what policies they discarded and can lie.
 
@@ -49,7 +49,7 @@ Once five Fascist policies have been enacted, the veto power is enabled. From th
 
 If three or more Fascist policies have been enacted at this point, electing Hitler as chancellor will win the game for the Fascists. When discarding policies, verbal and non-verbal communication between the president and the chancellor is forbidden.
 
-When Fascist policies are enacted, the president of the current government is granted a one-time ability which must be used before the next election begins. Both Liberal and Fascist presidents can use the abilities. The ability granted depends on the number of players in the game and how many Fascist policies have previously been enacted - this is shown on the game board. See the below section on *Presidential Powers* for more information.
+When Fascist policies are enacted, the president of the current government may be granted a one-time ability which must be used before the next election begins. Both Liberal and Fascist presidents can use the abilities. The ability granted depends on the number of players in the game and how many Fascist policies have previously been enacted - this is shown on the game board. See the below section on *Presidential Powers* for more information.
 
 If a government is not elected, then the next player clockwise is chosen to choose the next government as president and the game repeats.
 
@@ -72,8 +72,8 @@ The president can choose any other player to be the next president, even those w
 
 Once the election is over, the next president returns to the normal rules - ie. the next player clockwise to the president who obtained the ability.
 
-#### Policy Peak
-The president can peak at the top three policies in the deck and return them in the same order. There is no requirement to share this information with anyone or be honest about the policies.
+#### Policy Peek
+The president can peek at the top three policies in the deck and return them in the same order. There is no requirement to share this information with anyone or be honest about the policies.
 
 #### Execution
 The President executes one player at the table by saying “I formally execute [player name].”
