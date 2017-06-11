@@ -39,6 +39,8 @@ No. of Fascists | 1 + H | 1 + H | 2 + H | 2 + H | 3 + H | 3 + H
 
 Hitler does not know who the other Fascists are but the other Fascists all know who the other Fascists are. There is a deck of Liberal and Fascist policies. There are eleven Fascist policies and six Liberal policies in the deck. An exception to this is that in a five player game, Hitler knows who the other Fascists are.
 
+In order to reveal party membership, at the start of the game, each player closes their eyes and extends their hand. Hitler will then raise his thumb and the other Fascists will open their eyes. Once all Fascists have made eye contact and know who they are working with, Hitler proceeds to lower his thumb and the other Fascists close their eyes. At this point, everyone opens their eyes and the game begins.
+
 The Liberal team wins when five Liberal policies are enacted or when Hitler is assassinated, whereas the Fascist team wins when six Fascist policies are enacted or Hitler is elected chancellor at any point after the third Fascist policy is enacted.
 
 One player is chosen to start as the first presidential candidate and has to choose another player to be their chancellor for the first election. All the other players must then vote to accept or reject the government. A majority is required to pass a government. Players that were part of the most recent previous government cannot be chosen as chancellor. The president and chancellor who are up for election can vote.
