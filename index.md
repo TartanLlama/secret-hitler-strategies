@@ -25,6 +25,64 @@ If you have suggestions for additions or improvements to this guide, please subm
 {:toc}
 
 --------------
+## Rules
+*The year is 1932. The place is pre-WWII Germany. In Secret Hitler, players are German politicians attempting to hold a fragile Liberal government together and stem the rising tide of Fascism. Watch out though—there are secret Fascists among you, and one player is Secret Hitler.*
+
+Secret Hitler doesn't have many rules, the complexity of the game stems from the social situations the rules create.
+
+Each player is secretly assigned to a role and a party membership at the start of the game. There are two parties a player can be a part of - the Liberals and the Fascists. Every Liberal player also has the Liberal role and all but one Fascist has the Fascist role. The remaining Fascist player has the Hitler role. There are more Liberals than there are Fascists, this depends on the number of players in the game, as shown in the table below.
+
+No. of Players  | 5     | 6     | 7     | 8     | 9     | 10
+--------------- | ----- | ----- | ----- | ----- | ----- | -----
+No. of Liberals | 3     | 4     | 4     | 5     | 5     | 6
+No. of Fascists | 1 + H | 1 + H | 2 + H | 2 + H | 3 + H | 3 + H
+
+Hitler does not know who the other Fascists are but the other Fascists all know who the other Fascists are. There is a deck of Liberal and Fascist policies. There are eleven Fascist policies and six Liberal policies in the deck. An exception to this is that in a five player game, Hitler knows who the other Fascists are.
+
+In order to reveal party membership between players, at the start of the game, one player instructs all players to close their eyes and extend their hand. Then, Hitler is instructed to raise his thumb and the other Fascists are instructed to open their eyes. Once all Fascists have made eye contact and know who they are working with, Hitler is instructed to lower his thumb and the other Fascists are instructed to close their eyes. At this point, everyone can open their eyes and the game can begins.
+
+The Liberal team wins when five Liberal policies are enacted or when Hitler is assassinated, whereas the Fascist team wins when six Fascist policies are enacted or Hitler is elected chancellor at any point after the third Fascist policy is enacted.
+
+One player is chosen to start as the first presidential candidate and has to choose another player to be their chancellor for the first election. All the other players must then vote to accept or reject the government. A majority is required to pass a government. Players that were part of the most recent previous government cannot be chosen as chancellor. The president and chancellor who are up for election can vote.
+
+If a government is elected, then the president takes the top three electoral policies from the deck and must discard one to the discard pile. The president then passes the remaining two policies to the chancellor, who must discard another policy and then enact whichever policy remains. The president and chancellor are under no requirement to say what policies they discarded and can lie.
+
+Once five Fascist policies have been enacted, the veto power is enabled. From this point onward, the president and chancellor can choose to discard all three policies if they both agree.
+
+If three or more Fascist policies have been enacted at this point, electing Hitler as chancellor will win the game for the Fascists. When discarding policies, verbal and non-verbal communication between the president and the chancellor is forbidden.
+
+When Fascist policies are enacted, the president of the current government may be granted a one-time ability which must be used before the next election begins. Both Liberal and Fascist presidents can use the abilities. The ability granted depends on the number of players in the game and how many Fascist policies have previously been enacted - this is shown on the game board. See the below section on *Presidential Powers* for more information.
+
+If a government is not elected, then the next player clockwise is chosen to choose the next government as president and the game repeats.
+
+If three consecutive governments are rejected, then the topmost policy in the deck is played and the previous president and chancellor are eligible for selection again.
+
+If there are less than three policies remaining in the deck then the discard pile and deck are combined and shuffled.
+
+For more details, it is recommended that the [official Secret Hitler rules](http://www.secrethitler.com/assets/Secret_Hitler_Rules.pdf) are reviewed.
+
+### Presidential Powers
+There are four special powers that can be obtained during the game through the enacting of Fascist policies. Some powers will not be available depending on how many players there are.
+
+#### Investigate Loyalty
+When a president obtains the *Investigate Loyalty* ability, they are able to choose another player and view their party membership card in secret.
+
+The president can choose to share the results of the investigation and may lie. No player can be investigated twice.
+
+#### Special Election
+The president can choose any other player to be the next president, even those who were in the previous government. The selected player can choose a chancellor and the election proceeds as normal.
+
+Once the election is over, the next president returns to the normal rules - ie. the next player clockwise to the president who obtained the ability.
+
+#### Policy Peek
+The president can peek at the top three policies in the deck and return them in the same order. There is no requirement to share this information with anyone or be honest about the policies.
+
+#### Execution
+The President executes one player at the table by saying “I formally execute [player name].”
+
+If that player is Hitler, the game ends in a Liberal victory. If the executed player is not Hitler, the table should not learn whether a Fascist or a Liberal has been killed; players must try to work out for themselves the new table balance.
+
+Executed players are removed from the game and may not speak, vote, or be elected as part of government.
 
 ## Strategy overview
 
@@ -63,7 +121,7 @@ When you are more familiar with the game, you can try selectively discarding Lib
 Since you want to ensure the play of as many Liberal policies as possible, you should nominate the player you trust the most to be chancellor. If you have little trust for any other player, you might want to pick a chancellor who has not been on a government yet to gather information on as many players as possible. Be careful when nominating a chancellor after three Fascist policies have been played, as the Fascists will win the game if Hitler is succesfully nominated. Note that if Hitler is playing well, they may be one of the most trusted players in the game. As such, you need to be on the lookout for strange votes which might point to Fascists pushing for a Hitler nomination.
 
 #### As a Fascist
-As a Fascist, you are one of the few players who has full knowledge of everyone's roles. However, you must be careful not to give away too much information with your nominations. At the early stages of the game when few governments have gone through it is often best to stay undercover. One option is to not take sides and pick chancellors that the group considers reasonable. Sometimes this will allow you to put two Fascists into a government but don't worry too much if it doesn't happen. 
+As a Fascist, you are one of the few players who has full knowledge of everyone's roles. However, you must be careful not to give away too much information with your nominations. At the early stages of the game when few governments have gone through it is often best to stay undercover. One option is to not take sides and pick chancellors that the group considers reasonable. Sometimes this will allow you to put two Fascists into a government but don't worry too much if it doesn't happen.
 
 After the placement of three Fascist policies you must be more aware of your nominations. At this stage watch out for Liberal players hunting for suspicious nominations. As a Fascist you must balance up your desire to nominate Hitler or a fellow Fascist with hiding your identity by putting through a sub-optimal government. All it takes to spoil trust gained for Hitler in the early stages of the game is for a Fascist to be too eager to approve it. You must also gauge the group's suspicion of you at this stage and you may instead try to shift it onto unsuspecting Liberals. Bearing in mind what may make nominating Hitler suspicious you can do the same towards a Liberal. One way to do this is to act as if a Liberal is Hitler by nominating them or voting for them when it is seemingly illogical to do so.
 
