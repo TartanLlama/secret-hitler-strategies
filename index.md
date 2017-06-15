@@ -5,9 +5,6 @@ title: The Unofficial Secret Hitler Strategy Guide
 
 # The Unofficial Secret Hitler Strategy Guide
 
-### WORK IN PROGRESS
-{:.no_toc}
-
 [Secret Hitler](http://secrethitler.com/) is a social deduction game for 5–10 people about finding and stopping the Secret Hitler.
 
 The majority of players are Liberals. If they can learn to trust each other, they have enough votes to control the table and win the game. But some players are Fascists. They will say whatever it takes to get elected, enact their agenda, and blame others for the fallout. The liberals must work together to discover the truth before the fascists install their cold-blooded leader and win the game.
@@ -26,7 +23,7 @@ If you have suggestions for additions or improvements to this guide, please subm
 
 --------------
 ## Rules
-*The year is 1932. The place is pre-WWII Germany. In Secret Hitler, players are German politicians attempting to hold a fragile Liberal government together and stem the rising tide of Fascism. Watch out though—there are secret Fascists among you, and one player is Secret Hitler.*
+*The year is 1932. The place is pre-WWII Germany. In Secret Hitler, players are German politicians attempting to hold a fragile Liberal government together and stem the rising tide of Fascism. Watch out though — there are secret Fascists among you, and one player is Secret Hitler.*
 
 Secret Hitler doesn't have many rules, the complexity of the game stems from the social situations the rules create.
 
@@ -140,7 +137,7 @@ If you draw one Liberal you could decide to discard it in order to gain a Fascis
 #### As a Fascist
 Your main choice as a Fascist President is whether to discard Liberal policies or not. On a draw of 1L2F, discarding the Liberal and forcing a Fascist play brings your team closer to victory (and maybe gives you a Fascist power), but it will also cast suspicion upon you. You need to carefully consider the current state of the game to decide whether you can get away with discarding a Liberal, or if it's worth doing even if it'll likely out you as a Fascist. It is easier to sell a 0L3F draw if lots of Liberal policies have been played since the last shuffle, since there will be less Liberals in the deck and you can call on the power of statistics to save you. It can also be profitable to force a Fascist play if a few Liberal Presidents have had unlucky 0L3F draws, as you add chaos to the game.
 
-If your Chancellor is also a Fascist, you could even play a Fascist policy on a draw of 2L1F. If you do this at the wrong time or aren't convincing enough, this could out both of you as Fascists and effectively lose you the game, but it is profitable when it works. By discarding two Liberals from the deck you make it much for likely for Liberal Presidents to draw 0L3F, thus covering up your lie somewhat. If you are going for this strategy, you should be sure to do it as soon as possible after a shuffle to get as much cover as you can. Of course, if the Fascist team is far behind, it may make sense to discard two Liberals just to give you a better chance of winning. As always, consider the trust of the table and state of the board.
+If your Chancellor is also a Fascist, you could even play a Fascist policy on a draw of 2L1F. If you do this at the wrong time or aren't convincing enough, this could out both of you as Fascists and effectively lose you the game, but it is profitable when it works. By discarding two Liberals from the deck you make it much more likely for Liberal Presidents to draw 0L3F, thus covering up your lie somewhat. If you are going for this strategy, you should be sure to do it as soon as possible after a shuffle to get as much cover as you can. Of course, if the Fascist team is far behind, it may make sense to discard two Liberals just to give you a better chance of winning. As always, consider the trust of the table and state of the board.
 
 ### Chancellor action
 Being the Chancellor can be a dangerous place to be, as you are somewhat at the whim of chance and the President. You can easily find yourself in a dispute, either from your own choice of from the lies of a Fascist President.
@@ -171,12 +168,15 @@ When there is a dispute as a result of a governmental action (e.g. investigator 
 ## Advanced Strategy
 
 ### Double dispute
-Sometimes it works for Fascists to create a double dispute. For example, when an investigation power to be opened,  fascist president forces chancellor to play a fascist policy and then claims, he gave a choice. When getting investigation power, investigate a Liberal and claim he is a fascist. Since three people are in dispute, it is more difficult to exclude them from the game and players would be forced to take sides.
+Sometimes it works for Fascists to create a double dispute. For example, if an investigation is coming up and the President is Fascist:
 
+1. The President forces the Chancellor to play a Fascist policy and then claims she gave him a choice.
+2. The President investigates a Liberal and claims he is Fascist.
+
+Since three people are in dispute, it is more difficult to exclude them from the game and players would be forced to take sides.
 
 ### Self-downvoting
-When unsure about your Chancellor choice, voting against your own candidate can provide information through votes. Where possible have the next President (which you deem likely a Liberal) also vote for the same Chancellor. If unsure (Hitler has been enabled) get the next two Presidents to follow the tactic.
-
+When unsure about your Chancellor choice, voting against your own candidate can provide information through the other player's votes. Where possible, have the next President (who you deem likely a Liberal) also vote for the same Chancellor. If unsure (Hitler has been enabled) get the next two Presidents to follow the tactic.
 
 ### Maximising Presidency
 If you are a possible choice for President (i.e. within two clockwise spaces of the initial president since the vote count reset), then it can often make sense to vote down governments to maximise your chance of getting the Presidency and therefore having more of an influence over the game. This is particularly important if a strong power will activated if a Fascist policy is enacted. This is a general strategy that applies to both teams as you can trust yourself more than the others to make the right decision.
@@ -185,7 +185,7 @@ An exception to this rule is that Hitler may avoid becoming President. This can 
 
 ### Reveal trickery
 #### As a Liberal president
-If the Chancellor plays a Liberal, then all is (mostly) well. If a Fascist is played, however, you have a choice to make. You could inform the table immediately that the Chancellor discarded a Liberal and is therefore Fascist; this will put you in dispute with the Chancellor and could result in a soft-elimination depending on the number of players and established meta. For the most part this is a good strategy, as the Liberals have the majority taking down a Fascist this way still maintains the Liberal majority. Alternatively you can keep the information to yourself until it becomes necessary to reveal it. This will put pressure on the Chancellor as they will be waiting for you to reveal their betrayal so that they can best counter your accusation. They may out themselves by reacting to your lack of reaction, or by making other mistakes due to them being on-edge.
+If the Chancellor plays a Liberal, then all is (mostly) well. If a Fascist is played, however, you have a choice to make. You could inform the table immediately that the Chancellor discarded a Liberal and is therefore Fascist; this will put you in dispute with the Chancellor and could result in a soft-elimination depending on the number of players and established meta. For the most part this is a good strategy, as the Liberals can be certain that they have cut out at least one Fascist. Alternatively you can keep the information to yourself until it becomes necessary to reveal it. This will put pressure on the Chancellor as they will be waiting for you to reveal their betrayal so that they can best counter your accusation. They may out themselves by reacting to your lack of reaction, or by making other mistakes due to them being on-edge.
 
 Regardless of the action you took, you need to decide whether or not to reveal what cards you drew and what you discarded. Generally, honesty as a Liberal is the best policy. However, if you draw more than one Liberal, it can make sense to lie and say that you only received one. This will create the illusion that there are more Liberals in the deck then there actually are, so the Fascists will be less likely to discard one for fear of being discovered. However, you should probably reveal this information when the deck is to be shuffled so that the plays can be correctly analysed by your fellow Liberals.
 
@@ -218,7 +218,7 @@ Chain investigations in 9/10 player games are almost always a bad idea. They lim
 
 ### Executions
 #### As a Liberal
-You must be careful when you have gained the power of Assassination. The Liberals only have a narrow majority, as such you must make sure you do not shoot one of your fellow Liberals. There are two real choices to make as a Liberal with the Assassination power: shoot a known Fascist or try to shoot Hitler.
+You must be careful when you have gained the power of Assassination. The Liberals only have a narrow majority, so you must make sure you do not shoot one of your teammates. There are two real choices to make as a Liberal with the Assassination power: shoot a known Fascist or try to shoot Hitler.
 
 There are only two ways to know for sure if someone is fascist:
 * Investigation
