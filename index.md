@@ -5,9 +5,6 @@ title: The Unofficial Secret Hitler Strategy Guide
 
 # The Unofficial Secret Hitler Strategy Guide
 
-### WORK IN PROGRESS
-{:.no_toc}
-
 [Secret Hitler](http://secrethitler.com/) is a social deduction game for 5–10 people about finding and stopping the Secret Hitler.
 
 The majority of players are Liberals. If they can learn to trust each other, they have enough votes to control the table and win the game. But some players are Fascists. They will say whatever it takes to get elected, enact their agenda, and blame others for the fallout. The liberals must work together to discover the truth before the fascists install their cold-blooded leader and win the game.
@@ -26,7 +23,7 @@ If you have suggestions for additions or improvements to this guide, please subm
 
 --------------
 ## Rules
-*The year is 1932. The place is pre-WWII Germany. In Secret Hitler, players are German politicians attempting to hold a fragile Liberal government together and stem the rising tide of Fascism. Watch out though—there are secret Fascists among you, and one player is Secret Hitler.*
+*The year is 1932. The place is pre-WWII Germany. In Secret Hitler, players are German politicians attempting to hold a fragile Liberal government together and stem the rising tide of Fascism. Watch out though — there are secret Fascists among you, and one player is Secret Hitler.*
 
 Secret Hitler doesn't have many rules, the complexity of the game stems from the social situations the rules create.
 
@@ -98,16 +95,15 @@ If you are a Liberal, don’t say that you’re Fascist. Some players do this to
 
 ### Regular Fascists
 
-Fascists generally want to sow as much dissent and chaos as possible. Confused Liberals generally keeps the fascists in a strong position. However you must watch out that you do not trip up over your own lies.
+Fascists want to sow as much dissent and chaos as possible, giving confused Liberals a path to bring about their own demise. However you must watch out that you do not trip up over your own lies.
 
-It is often good as a Fascist to play straightforward, logically and for the most part as a Liberal. Doing so provides two key benefits. The first is a reasonable alibi “I’m a liberal and trying to be helpful! Why would I point out such a good plan if I was fascist?” if suspicion is pointed your way. The second comes if your cover becomes blown, this then can taint your good liberal logic and will cause others to look upon your recommendations with suspicion.
+Most of the time Fascists should pretend they are Liberals, only furthering the Fascist agenda when they have plausible deniability. A player who does this well will be able to curry favour with the Liberals, allowing them to subtly continue with their deceit, biding their time for a merciless betrayal when it counts the most.
 
-Feigning ignorance is often a good way to cover up your manipulative actions. As strategies are formulated and the meta evolves, it's often easiest to claim “Ah! I didn’t realise that was a thing!” to cover up something that you may have done that seems out of the ordinary.
-
+Fascists should also do their best to help Hitler gain trust so that they can be elected chancellor and win the game. This usually involves allowing them to play Liberal policies and attempting to eliminate other players from the game to clear the way. But be careful not to support Hitler *too* much, or the Liberal players might catch on!
 
 ### Hitler
 
-Hitler has the most sensitive role, as they can easily win or lose the game for the Fascists. A good Hitler player can worm their way into the Liberal block and get themselves nominated while still playing Fascist cards when they think they can get away with it. A poor one may get discovered and make themselves a prime target for execution powers, undermining any results the other Fascists have been achieving.
+Hitler has the most sensitive role, as they can bring about an early victory or defeat for the Fascists. A good Hitler player can worm their way into the Liberal block and get themselves nominated while still playing Fascist cards when they think they can get away with it. A poor one may get discovered and make themselves a prime target for execution powers, undermining any results the other Fascists have been achieving.
 
 The most basic Hitler strategy is to just play as a straight Liberal. Try to make all the same decisions you would make as a Liberal player; playing Liberal policies, discovering Fascists, voting conservatively. If you can do this well, you should have a reasonable amount of trust from the Liberal players to get you voted in as chancellor when it matters. Of course, with this strategy you are relying on the regular Fascists to enact the policies you need to win the game, but a straight Liberal Hitler play is a good idea if you aren't comfortable trying more advanced tactics.
 
@@ -121,12 +117,12 @@ When you are more familiar with the game, you can try selectively discarding Lib
 Since you want to ensure the play of as many Liberal policies as possible, you should nominate the player you trust the most to be chancellor. If you have little trust for any other player, you might want to pick a chancellor who has not been on a government yet to gather information on as many players as possible. Be careful when nominating a chancellor after three Fascist policies have been played, as the Fascists will win the game if Hitler is successfully nominated. Note that if Hitler is playing well, they may be one of the most trusted players in the game. As such, you need to be on the lookout for strange votes which might point to Fascists pushing for a Hitler nomination.
 
 #### As a Fascist
-As a Fascist, you are one of the few players who has full knowledge of everyone's roles. However, you must be careful not to give away too much information with your nominations. At the early stages of the game when few governments have gone through it is often best to stay undercover. One option is to not take sides and pick chancellors that the group considers reasonable. Sometimes this will allow you to put two Fascists into a government but don't worry too much if it doesn't happen.
+As a Fascist, you are one of the few players who has full knowledge of everyone's roles. However, you must be careful not to give away too much information with your nominations. At the early stages of the game when few governments have gone through it is often best to stay undercover. One option is to not take sides and pick chancellors that the group considers reasonable. Sometimes this will allow you to put two Fascists into a government, but don't worry too much if it doesn't happen.
 
-After the placement of three Fascist policies you must be more aware of your nominations. At this stage watch out for Liberal players hunting for suspicious nominations. As a Fascist you must balance up your desire to nominate Hitler or a fellow Fascist with hiding your identity by putting through a sub-optimal government. All it takes to spoil trust gained for Hitler in the early stages of the game is for a Fascist to be too eager to approve it. You must also gauge the group's suspicion of you at this stage and you may instead try to shift it onto unsuspecting Liberals. Bearing in mind what may make nominating Hitler suspicious you can do the same towards a Liberal. One way to do this is to act as if a Liberal is Hitler by nominating them or voting for them when it is seemingly illogical to do so.
+After the placement of three Fascist policies you must be more aware of your nominations. At this stage watch out for Liberal players hunting for suspicious actions; if the other players are experienced then all it takes is one bad vote to give yourself and Hitler away. As a Fascist you must balance up your desire to nominate Hitler or a fellow Fascist with hiding your identity by putting through sub-optimal governments. All it takes to spoil trust gained for Hitler in the early stages of the game is for a Fascist to be too eager to get them nominated. You must also gauge the group's suspicion of you at this stage and you may instead try to shift it onto unsuspecting Liberals, perhaps by acting as if a Liberal is Hitler by nominating them or voting for them when it is seemingly illogical to do so.
 
 #### As Hitler
-When playing as Hitler, you should nominate in the same way as a Liberal. Since you do not have knowledge of the roles of other players in the game this should be easy. Do not worry about trying to find your fellow Fascists as they will often signal to you where possible. Often you will want to build trustworthy governments. This will then allow you to push for yourself to be chancellor later.
+When playing as Hitler, you should nominate in the same way as a Liberal. Since you do not have knowledge of the roles of other players in the game this should be easy. Do not worry about trying to find your fellow Fascists as they will often signal to you where possible. It is usually advantageous to build trustworthy governments, as this will allow you to push for yourself to be chancellor later.
 
 If you have managed to work out the identity of your fellow Fascists it can be useful to have them on a government. This will allow you to collaborate to ensure Fascist policies go down. The only thing to watch out for here is whether they have suspicion on them already. If they do, this can often reflect on yourself and lead to distrust.
 
@@ -134,14 +130,14 @@ If you have managed to work out the identity of your fellow Fascists it can be u
 The President has the most power in the Government because they get the first look at the cards and the possibility of activating a Fascist power. Other players will be aware of this, so your actions will be under scrutiny.
 
 #### As a Liberal
-When playing as a Liberal, your main choice when giving your cards to the Chancellor is whether you pass one or two Liberal cards when you draw 2L1F. Generally, passing two Liberals is a good idea when the Liberals are behind near the end of the game; otherwise you can be denying the Liberal team of information on the Chancellor. Giving a choice to the Chancellor could result in a Fascist play, in which case you know the Chancellor is a Fascist.
+When playing as a Liberal, your main choice when giving your cards to the Chancellor is whether you pass one or two Liberal cards when you draw 2L1F. Generally, passing two Liberals is only a good idea when the Liberals are behind near the end of the game; otherwise you can be denying the Liberal team of information on the Chancellor. Giving a choice to the Chancellor could result in a Fascist play, in which case you know the Chancellor is a Fascist.
 
 If you draw one Liberal you could decide to discard it in order to gain a Fascist power. This only really makes sense for the investigation and assassination powers; the others are not powerful enough to give up a Liberal play for. This should be done judiciously and not when the Liberals are already behind on the scoreboard (unless you are fairly sure you can kill Hitler).
 
 #### As a Fascist
 Your main choice as a Fascist President is whether to discard Liberal policies or not. On a draw of 1L2F, discarding the Liberal and forcing a Fascist play brings your team closer to victory (and maybe gives you a Fascist power), but it will also cast suspicion upon you. You need to carefully consider the current state of the game to decide whether you can get away with discarding a Liberal, or if it's worth doing even if it'll likely out you as a Fascist. It is easier to sell a 0L3F draw if lots of Liberal policies have been played since the last shuffle, since there will be less Liberals in the deck and you can call on the power of statistics to save you. It can also be profitable to force a Fascist play if a few Liberal Presidents have had unlucky 0L3F draws, as you add chaos to the game.
 
-If your Chancellor is also a Fascist, you could even play a Fascist policy on a draw of 2L1F. If you do this at the wrong time or aren't convincing enough, this could out both of you as Fascists and effectively lose you the game, but it is profitable when it works. By discarding two Liberals from the deck you make it much for likely for Liberal Presidents to draw 0L3F, thus covering up your lie somewhat. If you are going for this strategy, you should be sure to do it as soon as possible after a shuffle to get as much cover as you can. Of course, if the Fascist team is far behind, it may make sense to discard two Liberals just to give you a better chance of winning. As always, consider the trust of the table and state of the board.
+If your Chancellor is also a Fascist, you could even play a Fascist policy on a draw of 2L1F. If you do this at the wrong time or aren't convincing enough, this could out both of you as Fascists and effectively lose you the game, but it is profitable when it works. By discarding two Liberals from the deck you make it much more likely for Liberal Presidents to draw 0L3F, thus covering up your lie somewhat. If you are going for this strategy, you should be sure to do it as soon as possible after a shuffle to get as much cover as you can. Of course, if the Fascist team is far behind, it may make sense to discard two Liberals just to give you a better chance of winning. As always, consider the trust of the table and state of the board.
 
 ### Chancellor action
 Being the Chancellor can be a dangerous place to be, as you are somewhat at the whim of chance and the President. You can easily find yourself in a dispute, either from your own choice of from the lies of a Fascist President.
@@ -172,12 +168,15 @@ When there is a dispute as a result of a governmental action (e.g. investigator 
 ## Advanced Strategy
 
 ### Double dispute
-Sometimes it works for Fascists to create a double dispute. For example, when an investigation power to be opened,  fascist president forces chancellor to play a fascist policy and then claims, he gave a choice. When getting investigation power, investigate a Liberal and claim he is a fascist. Since three people are in dispute, it is more difficult to exclude them from the game and players would be forced to take sides.
+Sometimes it works for Fascists to create a double dispute. For example, if an investigation is coming up and the President is Fascist:
 
+1. The President forces the Chancellor to play a Fascist policy and then claims she gave him a choice.
+2. The President investigates a Liberal and claims he is Fascist.
+
+Since three people are in dispute, it is more difficult to exclude them from the game and players would be forced to take sides.
 
 ### Self-downvoting
-When unsure about your Chancellor choice, voting against your own candidate can provide information through votes. Where possible have the next President (which you deem likely a Liberal) also vote for the same Chancellor. If unsure (Hitler has been enabled) get the next two Presidents to follow the tactic.
-
+When unsure about your Chancellor choice, voting against your own candidate can provide information through the other player's votes. Where possible, have the next President (who you deem likely a Liberal) also vote for the same Chancellor. If unsure (Hitler has been enabled) get the next two Presidents to follow the tactic.
 
 ### Maximising Presidency
 If you are a possible choice for President (i.e. within two clockwise spaces of the initial president since the vote count reset), then it can often make sense to vote down governments to maximise your chance of getting the Presidency and therefore having more of an influence over the game. This is particularly important if a strong power will activated if a Fascist policy is enacted. This is a general strategy that applies to both teams as you can trust yourself more than the others to make the right decision.
@@ -186,7 +185,7 @@ An exception to this rule is that Hitler may avoid becoming President. This can 
 
 ### Reveal trickery
 #### As a Liberal president
-If the Chancellor plays a Liberal, then all is (mostly) well. If a Fascist is played, however, you have a choice to make. You could inform the table immediately that the Chancellor discarded a Liberal and is therefore Fascist; this will put you in dispute with the Chancellor and could result in a soft-elimination depending on the number of players and established meta. For the most part this is a good strategy, as the Liberals have the majority taking down a Fascist this way still maintains the Liberal majority. Alternatively you can keep the information to yourself until it becomes necessary to reveal it. This will put pressure on the Chancellor as they will be waiting for you to reveal their betrayal so that they can best counter your accusation. They may out themselves by reacting to your lack of reaction, or by making other mistakes due to them being on-edge.
+If the Chancellor plays a Liberal, then all is (mostly) well. If a Fascist is played, however, you have a choice to make. You could inform the table immediately that the Chancellor discarded a Liberal and is therefore Fascist; this will put you in dispute with the Chancellor and could result in a soft-elimination depending on the number of players and established meta. For the most part this is a good strategy, as the Liberals can be certain that they have cut out at least one Fascist. Alternatively you can keep the information to yourself until it becomes necessary to reveal it. This will put pressure on the Chancellor as they will be waiting for you to reveal their betrayal so that they can best counter your accusation. They may out themselves by reacting to your lack of reaction, or by making other mistakes due to them being on-edge.
 
 Regardless of the action you took, you need to decide whether or not to reveal what cards you drew and what you discarded. Generally, honesty as a Liberal is the best policy. However, if you draw more than one Liberal, it can make sense to lie and say that you only received one. This will create the illusion that there are more Liberals in the deck then there actually are, so the Fascists will be less likely to discard one for fear of being discovered. However, you should probably reveal this information when the deck is to be shuffled so that the plays can be correctly analysed by your fellow Liberals.
 
@@ -219,7 +218,7 @@ Chain investigations in 9/10 player games are almost always a bad idea. They lim
 
 ### Executions
 #### As a Liberal
-You must be careful when you have gained the power of Assassination. The Liberals only have a narrow majority, as such you must make sure you do not shoot one of your fellow Liberals. There are two real choices to make as a Liberal with the Assassination power: shoot a known Fascist or try to shoot Hitler.
+You must be careful when you have gained the power of Assassination. The Liberals only have a narrow majority, so you must make sure you do not shoot one of your teammates. There are two real choices to make as a Liberal with the Assassination power: shoot a known Fascist or try to shoot Hitler.
 
 There are only two ways to know for sure if someone is fascist:
 * Investigation
