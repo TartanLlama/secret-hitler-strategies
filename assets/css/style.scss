@@ -1276,3 +1276,12 @@ h2.no_toc:before, h3.no_toc:before, h4.no_toc:before, h5.no_toc:before, h6.no_to
     display: block;
     margin: auto;
 }
+
+table {
+    margin: 0px auto 1.5555555556em auto;
+}
+
+
+td, th {
+    padding-left: 20px;
+}
