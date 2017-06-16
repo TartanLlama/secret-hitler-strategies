@@ -36,7 +36,7 @@ No. of Fascists | 1+H | 1+H | 2+H | 2+H | 3+H | 3+H
 
 Hitler does not know who the other Fascists are but the other Fascists all know who the other Fascists are. There is a deck of Liberal and Fascist policies. There are eleven Fascist policies and six Liberal policies in the deck. An exception to this is that in a five player game, Hitler knows who the other Fascists are.
 
-In order to reveal party membership between players, at the start of the game, one player instructs all players to close their eyes and extend their hand. Then, Hitler is instructed to raise his thumb and the other Fascists are instructed to open their eyes. Once all Fascists have made eye contact and know who they are working with, Hitler is instructed to lower his thumb and the other Fascists are instructed to close their eyes. At this point, everyone can open their eyes and the game can begins.
+In order to reveal party membership between players, at the start of the game, one player instructs all players to close their eyes and extend their hand. Then, Hitler is instructed to raise their thumb and the other Fascists are instructed to open their eyes. Once all Fascists have made eye contact and know who they are working with, Hitler is instructed to lower their thumb and the other Fascists are instructed to close their eyes. At this point, everyone can open their eyes and the game can begins.
 
 The Liberal team wins when five Liberal policies are enacted or when Hitler is assassinated, whereas the Fascist team wins when six Fascist policies are enacted or Hitler is elected chancellor at any point after the third Fascist policy is enacted.
 
@@ -44,7 +44,7 @@ One player is chosen to start as the first presidential candidate and has to cho
 
 If a government is elected, then the president takes the top three electoral policies from the deck and must discard one to the discard pile. The president then passes the remaining two policies to the chancellor, who must discard another policy and then enact whichever policy remains. The president and chancellor are under no requirement to say what policies they discarded and can lie.
 
-Once five Fascist policies have been enacted, the veto power is enabled. From this point onward, the president and chancellor can choose to discard all three policies if they both agree.
+Once five Fascist policies have been enacted, the veto power is enabled. From this point onward, the president and chancellor can choose to discard all three policies if they both agree. However, doing so counts as a failed government and advances the failed government tracker forward.
 
 If three or more Fascist policies have been enacted at this point, electing Hitler as chancellor will win the game for the Fascists. When discarding policies, verbal and non-verbal communication between the president and the chancellor is forbidden.
 
@@ -71,15 +71,19 @@ The president can choose any other player to be the next president, even those w
 
 Once the election is over, the next president returns to the normal rules - ie. the next player clockwise to the president who obtained the ability.
 
+This can allow the player to the left of the president to become the nominated president twice in a row.
+
 #### Policy Peek
 The president can peek at the top three policies in the deck and return them in the same order. There is no requirement to share this information with anyone or be honest about the policies.
 
 #### Execution
 The President executes one player at the table by saying “I formally execute [player name].”
 
-If that player is Hitler, the game ends in a Liberal victory. If the executed player is not Hitler, the table should not learn whether a Fascist or a Liberal has been killed; players must try to work out for themselves the new table balance.
+If that player is Hitler, the game ends in a Liberal victory. If the executed player is not Hitler, the table will not know for sure if they have killed a Fascist or a Liberal; Liberals must try to work out for themselves whether the right person was killed.
 
-Executed players are removed from the game and may not speak, vote, or be elected as part of government.
+Executed players are removed from the game and may not speak, vote, or be elected as part of government. 
+
+It is also recommended that Executed players do not interfere with the game in anyway including by looking at other players card. These innocuous actions can often accidentally reveal your true part allegiance.
 
 ## Strategy overview
 
@@ -170,8 +174,8 @@ When there is a dispute as a result of a governmental action (e.g. investigator 
 ### Double dispute
 Sometimes it works for Fascists to create a double dispute. For example, if an investigation is coming up and the President is Fascist:
 
-1. The President forces the Chancellor to play a Fascist policy and then claims she gave him a choice.
-2. The President investigates a Liberal and claims he is Fascist.
+1. The President forces the Chancellor to play a Fascist policy and then claims that they were given a choice.
+2. The President investigates a Liberal and claims that they are Fascist.
 
 Since three people are in dispute, it is more difficult to exclude them from the game and players would be forced to take sides.
 
