@@ -242,6 +242,7 @@ small small, .secret-font-size-smallest {
 body {
   display: block;
   overflow-x: hidden;
+  min-width: 960px;
   position: relative; }
 
 body, html {
