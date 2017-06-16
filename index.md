@@ -81,7 +81,7 @@ The President executes one player at the table by saying “I formally execute [
 
 If that player is Hitler, the game ends in a Liberal victory. If the executed player is not Hitler, the table will not know for sure if they have killed a Fascist or a Liberal; Liberals must try to work out for themselves whether the right person was killed.
 
-Executed players are removed from the game and may not speak, vote, or be elected as part of government. 
+Executed players are removed from the game and may not speak, vote, or be elected as part of government.
 
 It is also recommended that Executed players do not interfere with the game in anyway including by looking at other players card. These innocuous actions can often accidentally reveal your true part allegiance.
 
@@ -294,20 +294,18 @@ It is also recommended that you do not leave votes lying out even if your intent
 
 -----------------
 
-## Contributors
-
-[Simon Brand](https://twitter.com/TartanLlama), [Fraser Cormack](https://github.com/frasercrmck), [Sean Jones](https://github.com/NeuralSandwich), [Mark M. Miller](https://github.com/7thsanctum), [Meenakshi Ravindran](https://github.com/meenur), Tatjana Starcenko, [David Wood](https://github.com/davidtwco)
-
------------------
-
 ## License and Attribution
 
 [![Creative Commons Licence](assets/img/by-nc-sa.png){:.licenseimg}](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-
 The Unofficial Secret Hitler Strategy Guide by the Edinburgh Secret Hitler Group is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Secret Hitler was created by Mike Boxleiter, Tommy Maranges, Max Temkin, and Mac Schubert. It is also licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+Secret Hitler was created by Mike Boxleiter, Tommy Maranges, Max Temkin, and Mac Schubert, as were the images and css used on this site. They are also licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+### Contributers
+
+[Simon Brand](https://twitter.com/TartanLlama), [Fraser Cormack](https://github.com/frasercrmck), [Sean Jones](https://github.com/NeuralSandwich), [Mark M. Miller](https://github.com/7thsanctum), [Meenakshi Ravindran](https://github.com/meenur), Tatjana Starcenko, [David Wood](https://github.com/davidtwco).
+
 
 -----------------
 
