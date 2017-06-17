@@ -4,8 +4,6 @@ before_header: sword
 order: 4
 after: dagger
 ---
-## Advanced Strategy
-
 ### Double dispute
 Sometimes it works for Fascists to create a double dispute. For example, if an investigation is coming up and the President is Fascist:
 

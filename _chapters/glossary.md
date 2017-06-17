@@ -3,8 +3,6 @@ title: Glossary
 before_header: sword
 order: 10
 ---
-## Glossary
-
 Word                 | Definition
 ----                 | -----------
 Brexit               | Voting down three governments in a row, thus causing a policy to be revealed at random. So-called because some players would vote “no” in order to register dissent, assuming that everyone else would vote yes, but if too many people do this, then the government will actually fail.
