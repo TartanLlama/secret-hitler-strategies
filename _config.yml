@@ -35,3 +35,7 @@ exclude:
 
 kramdown:
   toc_levels: 2..3
+
+collections:
+  chapters:
+    output: false
