@@ -1,7 +1,7 @@
 ---
 layout: base
 ---
-<section class="secret-card secret-ribbon">
+<section id="intro" class="secret-card secret-ribbon">
 	<h1>The Unofficial</h1>
 	{% assign logo = 'illustrations/logo.html' %}
 	{% include {{ logo }} %}
@@ -16,6 +16,15 @@ layout: base
 	{% include image.html img=chapter.before incl_section=true %}
 	<section class="secret-card secret-ribbon">
 		{% include image.html img=chapter.before_header incl_section=false %}
+		<div class="section-header">
+			<a class="section-link" href="#intro">
+				<i class="fa fa-arrow-up"></i>
+			</a>
+			<h2 id="{{ chapter.title | slugify }}">{{ chapter.title }}</h2>
+			<a class="section-link" href="{{ chapter.title | slugify }}">
+				<i class="fa fa-link"></i>
+			</a>
+		</div>
 		{{ chapter.content }}
 	</section>
 	{% include image.html img=chapter.after incl_section=true %}
