@@ -1,3 +1,3 @@
 $(document).ready(function() {
-    $('#toc').toc();
+    $('#toc').toc({ noBackToTopLinks: true });
 });

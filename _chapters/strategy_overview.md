@@ -4,8 +4,6 @@ before_header: sword
 order: 2
 after: bird
 ---
-## Strategy overview
-
 ### Liberals
 
 As a Liberal your aim is to ensure that Liberal policies are enacted and to discover Fascists in order to execute or soft-eliminate them.

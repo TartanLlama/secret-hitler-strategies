@@ -13,3 +13,23 @@ section > svg {
 tr {
 	text-align: left;
 }
+
+section > .section-header {
+	display: flex;
+	justify-content: center;
+	align-items: baseline;
+
+	h1, h2, h3, h4, h5, h6 {
+		flex: 1;
+	}
+
+	.section-link {
+		display: none;
+	}
+
+	&:hover {
+		.section-link {
+			display: inline-block;
+		}
+	}
+}
