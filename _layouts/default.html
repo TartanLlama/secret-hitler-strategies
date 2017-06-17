@@ -12,6 +12,10 @@ layout: base
 		{% include {{ before }} %}
 	{% endif %}
 	<section class="secret-card secret-ribbon">
+		{% if chapter.before_header %}
+			{% assign before_header = 'illustrations/' | append: chapter.before_header | append: '.html' %}
+			{% include {{ before_header }} %}
+		{% endif %}
 		{{ chapter.content }}
 	</section>
 	{% if chapter.after %}

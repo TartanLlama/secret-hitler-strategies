@@ -1,6 +1,7 @@
 ---
 title: Rules
 order: 1
+before_header: sword
 after: gun
 ---
 ## Rules
