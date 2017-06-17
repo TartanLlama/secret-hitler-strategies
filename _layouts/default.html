@@ -1,20 +1,22 @@
 ---
 layout: base
 ---
-<div class="secret-card secret-ribbon">
+<section class="secret-card secret-ribbon">
 	<h1>The Unofficial</h1>
 	{% assign logo = 'illustrations/logo.html' %}
 	{% include {{ logo }} %}
 	<h1>Strategy Guide</h1>
 
 	{{ content }}
-</div>
+</section>
 
 {% assign chapters = site.chapters | sort: 'order' %}
 {% for chapter in chapters %}
 	{% if chapter.before %}
-		{% assign before = 'illustrations/' | append: chapter.before | append: '.html' %}
-		{% include {{ before }} %}
+		<section class="section-img">
+			{% assign before = 'illustrations/' | append: chapter.before | append: '.html' %}
+			{% include {{ before }} %}
+		</section>
 	{% endif %}
 	<section class="secret-card secret-ribbon">
 		{% if chapter.before_header %}
@@ -24,7 +26,9 @@ layout: base
 		{{ chapter.content }}
 	</section>
 	{% if chapter.after %}
-		{% assign after = 'illustrations/' | append: chapter.after | append: '.html' %}
-		{% include {{ after }} %}
+		<section class="section-img">
+			{% assign after = 'illustrations/' | append: chapter.after | append: '.html' %}
+			{% include {{ after }} %}
+		</section>
 	{% endif %}
 {% endfor %}
