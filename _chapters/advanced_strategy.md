@@ -35,5 +35,3 @@ In the first round of governments there can be 5 functional governments before t
 
 Causing a failed government three times (also known as Brexit or breakfast) will disrupt this order. In round 1 if you vote past the governments twice you can see all the cards. In round 2 the failed vote will result in more cards being hidden.
 
------------------
-
