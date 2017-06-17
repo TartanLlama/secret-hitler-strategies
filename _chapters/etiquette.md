@@ -1,5 +1,6 @@
 ---
 title: Etiquette
+before_header: sword
 order: 7
 ---
 ## Etiquette

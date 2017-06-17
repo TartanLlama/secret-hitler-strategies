@@ -1,5 +1,6 @@
 ---
 title: Experimental Strategy
+before_header: sword
 order: 6
 ---
 ## Experimental strategy

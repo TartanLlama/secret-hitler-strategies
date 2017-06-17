@@ -1,5 +1,6 @@
 ---
 title: Fascist Track Powers
+before_header: sword
 order: 5
 ---
 ## Fascist track powers

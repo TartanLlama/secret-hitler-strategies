@@ -1,5 +1,6 @@
 ---
 title: Glossary
+before_header: sword
 order: 10
 ---
 ## Glossary

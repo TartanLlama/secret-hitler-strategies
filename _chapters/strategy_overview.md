@@ -1,5 +1,6 @@
 ---
 title: Strategy Overview
+before_header: sword
 order: 2
 ---
 ## Strategy overview

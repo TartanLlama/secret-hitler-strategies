@@ -1,5 +1,6 @@
 ---
 title: Advanced Strategy
+before_header: sword
 order: 4
 ---
 ## Advanced Strategy
