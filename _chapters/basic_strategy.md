@@ -2,6 +2,7 @@
 title: Basic Strategy
 before_header: sword
 order: 3
+after: watch
 ---
 ## Basic Strategy
 ### Chancellor nomination

@@ -12,23 +12,10 @@ layout: base
 
 {% assign chapters = site.chapters | sort: 'order' %}
 {% for chapter in chapters %}
-	{% if chapter.before %}
-		<section class="section-img">
-			{% assign before = 'illustrations/' | append: chapter.before | append: '.html' %}
-			{% include {{ before }} %}
-		</section>
-	{% endif %}
+	{% include image.html img=chapter.before incl_section=true %}
 	<section class="secret-card secret-ribbon">
-		{% if chapter.before_header %}
-			{% assign before_header = 'illustrations/' | append: chapter.before_header | append: '.html' %}
-			{% include {{ before_header }} %}
-		{% endif %}
+		{% include image.html img=chapter.before_header incl_section=false %}
 		{{ chapter.content }}
 	</section>
-	{% if chapter.after %}
-		<section class="section-img">
-			{% assign after = 'illustrations/' | append: chapter.after | append: '.html' %}
-			{% include {{ after }} %}
-		</section>
-	{% endif %}
+	{% include image.html img=chapter.after incl_section=true %}
 {% endfor %}

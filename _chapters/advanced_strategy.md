@@ -2,6 +2,7 @@
 title: Advanced Strategy
 before_header: sword
 order: 4
+after: dagger
 ---
 ## Advanced Strategy
 

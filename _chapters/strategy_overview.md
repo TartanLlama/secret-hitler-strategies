@@ -2,6 +2,7 @@
 title: Strategy Overview
 before_header: sword
 order: 2
+after: bird
 ---
 ## Strategy overview
 

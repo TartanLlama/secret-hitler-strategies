@@ -1,0 +1,11 @@
+{% if include.img %}
+	{% if include.incl_section %}
+	<section class="section-img">
+	{% endif %}
+		{% assign img = 'illustrations/' | append: include.img | append: '.html' %}
+		{% include {{ img }} %}
+	{% if include.incl_section %}
+	</section>
+	{% endif %}
+{% endif %}
+

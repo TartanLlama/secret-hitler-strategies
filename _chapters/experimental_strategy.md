@@ -2,6 +2,7 @@
 title: Experimental Strategy
 before_header: sword
 order: 6
+after: snake
 ---
 ## Experimental strategy
 
