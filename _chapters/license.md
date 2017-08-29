@@ -1,6 +1,6 @@
 ---
 title: License and Attribution
-order: 8
+order: 9
 ---
 [![Creative Commons Licence](assets/img/by-nc-sa.png){:.licenseimg}](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 

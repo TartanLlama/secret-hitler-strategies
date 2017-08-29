@@ -1,7 +1,7 @@
 ---
 title: Glossary
 before_header: sword
-order: 10
+order: 11
 ---
 Word                 | Definition
 ----                 | -----------
