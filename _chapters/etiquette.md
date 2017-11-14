@@ -19,3 +19,7 @@ It is inconsiderate to vote late as you may see others votes and be influenced b
 
 It is also recommended that you do not leave votes lying out even if your intention is to vote that way.
 
+### Direct Questioning
+
+Your group may decide to disallow direct questioning, such as asking "Are you a fascist?" and staring the player down until they answer. Some groups may see this as fair play, others -- particularly those where some players do not have good poker faces -- may see it as unfair. See what works for your group.
+
