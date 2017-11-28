@@ -15,7 +15,9 @@ With the table below we can work out what the odds are that at least one liberal
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-yw4l{vertical-align:top}
+.search-table-outter { overflow-x: scroll; }
 </style>
+<div class="search-table-outter wrapper">
 <table class="tg">
   <tr>
     <th class="tg-baqh" colspan="17">Percentage Chance of Drawing at Least One Liberal</th>
@@ -169,3 +171,4 @@ With the table below we can work out what the odds are that at least one liberal
     <td class="tg-yw4l">na</td>
   </tr>
 </table>
+</div>
