@@ -15,9 +15,9 @@ With the table below we can work out what the odds are that at least one liberal
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-yw4l{vertical-align:top}
-.search-table-outter { overflow-x: scroll; }
+.search-table-outer { overflow-x: auto; }
 </style>
-<div class="search-table-outter wrapper">
+<div class="search-table-outer wrapper">
 <table class="tg">
   <tr>
     <th class="tg-baqh" colspan="17">Percentage Chance of Drawing at Least One Liberal</th>
@@ -46,29 +46,29 @@ With the table below we can work out what the odds are that at least one liberal
   <tr>
     <td class="tg-baqh" rowspan="7"><br><br><br><br>Number<br>of <br>Liberal<br>Cards<br><br></td>
     <td class="tg-baqh">0</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-yw4l">na</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-yw4l">n/a</td>
   </tr>
   <tr>
     <td class="tg-baqh">1</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
     <td class="tg-baqh">25.00%</td>
     <td class="tg-baqh">27.27%</td>
     <td class="tg-baqh">30.00%</td>
@@ -82,10 +82,10 @@ With the table below we can work out what the odds are that at least one liberal
   </tr>
   <tr>
     <td class="tg-baqh">2</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
     <td class="tg-baqh">42.31%</td>
     <td class="tg-baqh">45.45%</td>
     <td class="tg-baqh">49.09%</td>
@@ -100,9 +100,9 @@ With the table below we can work out what the odds are that at least one liberal
   </tr>
   <tr>
     <td class="tg-yw4l">3</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
     <td class="tg-baqh">54.67%</td>
     <td class="tg-baqh">58.04%</td>
     <td class="tg-baqh">61.82%</td>
@@ -118,8 +118,8 @@ With the table below we can work out what the odds are that at least one liberal
   </tr>
   <tr>
     <td class="tg-yw4l">4</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
     <td class="tg-baqh">63.74%</td>
     <td class="tg-baqh">67.03%</td>
     <td class="tg-baqh">70.63%</td>
@@ -132,11 +132,11 @@ With the table below we can work out what the odds are that at least one liberal
     <td class="tg-baqh">100.0%</td>
     <td class="tg-baqh">100.0%</td>
     <td class="tg-baqh">100.0%</td>
-    <td class="tg-yw4l">na</td>
+    <td class="tg-yw4l">n/a</td>
   </tr>
   <tr>
     <td class="tg-yw4l">5</td>
-    <td class="tg-baqh">na</td>
+    <td class="tg-baqh">n/a</td>
     <td class="tg-baqh">70.54%</td>
     <td class="tg-baqh">73.63%</td>
     <td class="tg-baqh">76.92%</td>
@@ -149,8 +149,8 @@ With the table below we can work out what the odds are that at least one liberal
     <td class="tg-baqh">100.0%</td>
     <td class="tg-baqh">100.0%</td>
     <td class="tg-baqh">100.0%</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-yw4l">na</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-yw4l">n/a</td>
   </tr>
   <tr>
     <td class="tg-yw4l">6</td>
@@ -166,9 +166,9 @@ With the table below we can work out what the odds are that at least one liberal
     <td class="tg-baqh">100.0%</td>
     <td class="tg-baqh">100.0%</td>
     <td class="tg-baqh">100.0%</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-baqh">na</td>
-    <td class="tg-yw4l">na</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-baqh">n/a</td>
+    <td class="tg-yw4l">n/a</td>
   </tr>
 </table>
 </div>
