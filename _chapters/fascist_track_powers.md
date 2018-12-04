@@ -9,8 +9,8 @@ When a Fascist policy is played, the President may get a special power to enact.
 ### Investigations
 When there is an investigation and the investigatee is called to be a Liberal, the probability of the investigatee being Liberal is slightly higher. The four possibilities are:
 
-- Liberal President, Liberal Chancellor: Should always result in a liberal call
-- FL: The Fascist President may accuse the Chancellor in order to create chaos, or they might call a Liberal to maintain cover
+- Liberal President, Liberal investigatee: Should always result in a liberal call
+- FL: The Fascist President may accuse the investigatee in order to create chaos, or they might call a Liberal to maintain cover
 - LF: Should always result in a fascist call
   - See the [Experimental Strategy: The Slow Burn](#the-slow-burn)
 - FF: Most of the time the president will call liberal, but they might sometimes call fascist to cause chaos.
