@@ -32,7 +32,7 @@ Your main choice as a Fascist President is whether to discard Liberal policies o
 If your Chancellor is also a Fascist, you could even play a Fascist policy on a draw of 2L1F. If you do this at the wrong time or aren't convincing enough, this could out both of you as Fascists and effectively lose you the game, but it is profitable when it works. By discarding two Liberals from the deck you make it much more likely for Liberal Presidents to draw 0L3F, thus covering up your lie somewhat. If you are going for this strategy, you should be sure to do it as soon as possible after a shuffle to get as much cover as you can. Of course, if the Fascist team is far behind, it may make sense to discard two Liberals just to give you a better chance of winning. As always, consider the trust of the table and state of the board.
 
 ### Chancellor action
-Being the Chancellor can be a dangerous place to be, as you are somewhat at the whim of chance and the President. You can easily find yourself in a dispute, either from your own choice of from the lies of a Fascist President.
+Being the Chancellor can be a dangerous place to be, as you are somewhat at the whim of chance and the President. You can easily find yourself in a dispute, either from your own choice or from the lies of a Fascist President.
 
 #### As a Liberal
 Just play a Liberal policy if you get one. Playing a Fascist card on a choice to give the President a Fascist power is the only possible reason for not doing this, but that strategy is incredibly risky and may well cost you the game.
