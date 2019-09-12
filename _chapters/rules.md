@@ -65,5 +65,5 @@ If that player is Hitler, the game ends in a Liberal victory. If the executed pl
 
 Executed players are removed from the game and may not speak, vote, or be elected as part of government.
 
-It is also recommended that Executed players do not interfere with the game in anyway including by looking at other players card. These innocuous actions can often accidentally reveal your true part allegiance.
+It is also recommended that Executed players do not interfere with the game in anyway including by looking at other players card. These innocuous actions can often accidentally reveal your true party allegiance.
 
