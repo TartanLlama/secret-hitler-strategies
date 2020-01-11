@@ -8,4 +8,4 @@ The majority of players are Liberals. If they can learn to trust each other, the
 
 This is an unofficial strategy guide for Secret Hitler. We wrote it to immortalise the insight gained from our group's 400+ games in the form of a living document. We will continue to update this guide as we butcher our metagame and reassemble it into some horrifying meta-Frankenstein's monster.
 
-If you have suggestions for additions or improvements to this guide, please submit an issue or pull request to the repository [here](https://github.com/TartanLlama/secret-hitler-strategies).
+If you have suggestions for additions or improvements to this guide, please submit an issue or pull request to the [repository](https://github.com/TartanLlama/secret-hitler-strategies).
