@@ -27,7 +27,7 @@ If the Chancellor plays a Liberal, then all is (mostly) well. If a Fascist is pl
 Regardless of the action you took, you need to decide whether or not to reveal what cards you drew and what you discarded. Generally, honesty as a Liberal is the best policy. However, if you draw more than one Liberal, it can make sense to lie and say that you only received one. This will create the illusion that there are more Liberals in the deck then there actually are, so the Fascists will be less likely to discard one for fear of being discovered. However, you should probably reveal this information when the deck is to be shuffled so that the plays can be correctly analysed by your fellow Liberals.
 
 ### Card Counting
-There are 17 cards in total: 6 Liberals and 11 Fascists.
+There are 17 cards in total: 6 Liberal and 11 Fascist.
 
 In the first round of governments, there can be 5 functional governments before the deck needs to be shuffled (3 cards x 5 = 15). As such, in the first round you will see 15 cards as a group, but the remaining two will be unknown as they get shuffled back in. For the second round after the deck is shuffled, there should now be 12 cards in the deck. In round two you have the possibility of 4 governments which will then see all the cards. If you get to the end of the second deck and the game isn’t over, there will only be one more government after the shuffle.
 
