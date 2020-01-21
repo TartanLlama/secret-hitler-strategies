@@ -15,7 +15,7 @@ When there is an investigation and the investigatee is called to be a Liberal, t
   - See the [Experimental Strategy: The Slow Burn](#the-slow-burn)
 - FF: Most of the time the president will call liberal, but they might sometimes call fascist to cause chaos.
 
-When there is an investigation and the investigatee is called to be a Fascist, the probability of the investigator being Hitler is low. This is due to the fact that Hitler generally wouldn’t want to create a dispute and bring attention to themselves. Due to our current strategy of soft-eliminating those in a dispute if Hitler was to create a dispute this would prevent a Hitler nomination victory.
+When there is an investigation and the investigatee is called to be a Fascist, the probability of the investigator being Hitler is low. This is due to the fact that Hitler generally wouldn’t want to create a dispute and bring attention to themselves. Due to our current strategy of soft-eliminating those in a dispute, if Hitler was to create a dispute this would prevent a Hitler nomination victory.
 
 The investigation is almost always more useful than it is a hindrance. **Do not Brexit and lose the power**.
 
@@ -36,7 +36,7 @@ It is often safest to shoot whoever you are in a dispute with as a result of inv
 If you don’t know any Fascists, a more risky option is to kill the person you trust least from a dispute. As you know there is a guaranteed Fascist between them it is only a *50/50* chance of killing the wrong person. In the worst case you can use the second assassination power to kill the other member of the dispute. This ensures that you have killed *at least* one Fascist, and thus haven’t unbalanced the voting. If you pick wrong with the first kill or if you do not have a second assassination this can lead to issues. It’s still possible to get back in control if Hitler doesn’t know who the other Fascists are.
 
 #### As a Fascist
-Ideally you want to kill a Liberal if you get the execution power as a Fascist. This lowers the voting power of the Liberals and can even up the player counts in a game with an odd number of players. As the Liberal's voting power gets lower, the Fascists will have an easier time electing Fascist governments and Hitler.
+Ideally you want to kill a Liberal if you get the execution power as a Fascist. This lowers the voting power of the Liberals and can equalize the player counts in a game with an odd number of players. As the Liberals' voting power gets lower, the Fascists will have an easier time electing Fascist governments and Hitler.
 
 You need to consider whether or not you can justify killing a Liberal player to the others. If you can, then it's safe to kill them. If not, you need to decide whether it's more valuable to your team to kill an obvious Fascist to maintain trust, or to kill a Liberal and out yourself to the table. The latter can be a good choice if it will even the team counts, or if there is a strong Liberal block which can be disrupted. For example, if there are three Liberals who trust each other and keep cycling the governments between them, you could execute one so that the Liberals are forced to put trust in someone else -- maybe Hitler.
 

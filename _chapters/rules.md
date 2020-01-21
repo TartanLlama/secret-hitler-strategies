@@ -7,18 +7,22 @@ before: snake
 ---
 *The year is 1932. The place is pre-WWII Germany. In Secret Hitler, players are German politicians attempting to hold a fragile Liberal government together and stem the rising tide of Fascism. Watch out though — there are secret Fascists among you, and one player is Secret Hitler.*
 
-Secret Hitler doesn't have many rules, the complexity of the game stems from the social situations the rules create.
+Secret Hitler doesn't have many rules; the complexity of the game stems from the social situations the rules create.
 
-Each player is secretly assigned to a role and a party membership at the start of the game. There are two parties a player can be a part of - the Liberals and the Fascists. Every Liberal player also has the Liberal role and all but one Fascist has the Fascist role. The remaining Fascist player has the Hitler role. There are more Liberals than there are Fascists, this depends on the number of players in the game, as shown in the table below.
+Each player is secretly assigned to a role and a party membership at the start of the game. There are two parties a player can be a part of - the Liberals and the Fascists. Every Liberal player also has the Liberal role and all but one Fascist has the Fascist role. The remaining Fascist player has the Hitler role. There are more Liberals than there are Fascists; this depends on the number of players in the game, as shown in the table below.
+
+<div class="table-wrapper" markdown="block">
 
 No. of Players  | 5   | 6   | 7   | 8   | 9   | 10
 --------------- | ----| --- | --- | --- | --- | ---
 No. of Liberals | 3   | 4   | 4   | 5   | 5   | 6
 No. of Fascists | 1+H | 1+H | 2+H | 2+H | 3+H | 3+H
 
-Hitler does not know who the other Fascists are but the other Fascists all know who the other Fascists are. There is a deck of Liberal and Fascist policies. There are eleven Fascist policies and six Liberal policies in the deck. An exception to this is that in a five player game, Hitler knows who the other Fascists are.
+</div>
 
-In order to reveal party membership between players, at the start of the game, one player instructs all players to close their eyes and extend their hand. Then, Hitler is instructed to raise their thumb and the other Fascists are instructed to open their eyes. Once all Fascists have made eye contact and know who they are working with, Hitler is instructed to lower their thumb and the other Fascists are instructed to close their eyes. At this point, everyone can open their eyes and the game can begins.
+Hitler does not know who the other Fascists are, but the other Fascists know who all the Fascists are. There is a deck of Liberal and Fascist policies. There are eleven Fascist policies and six Liberal policies in the deck. An exception to this is that in a five player game, Hitler knows who the other Fascists are.
+
+In order to reveal party membership between players, at the start of the game, one player instructs all players to close their eyes and extend their hand. Then, Hitler is instructed to raise their thumb and the other Fascists are instructed to open their eyes. Once all Fascists have made eye contact and know who they are working with, Hitler is instructed to lower their thumb and the other Fascists are instructed to close their eyes. At this point, everyone can open their eyes and the game begins.
 
 The Liberal team wins when five Liberal policies are enacted or when Hitler is assassinated, whereas the Fascist team wins when six Fascist policies are enacted or Hitler is elected chancellor at any point after the third Fascist policy is enacted.
 
@@ -65,5 +69,4 @@ If that player is Hitler, the game ends in a Liberal victory. If the executed pl
 
 Executed players are removed from the game and may not speak, vote, or be elected as part of government.
 
-It is also recommended that Executed players do not interfere with the game in anyway including by looking at other players card. These innocuous actions can often accidentally reveal your true party allegiance.
-
+It is also recommended that Executed players do not interfere with the game in any way, including by looking at other players' cards. These innocuous actions can often accidentally reveal your true party allegiance.
