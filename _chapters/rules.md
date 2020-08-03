@@ -20,7 +20,7 @@ No. of Fascists | 1+H | 1+H | 2+H | 2+H | 3+H | 3+H
 
 </div>
 
-Hitler does not know who the other Fascists are, but the other Fascists know who all the Fascists are. There is a deck of Liberal and Fascist policies. There are eleven Fascist policies and six Liberal policies in the deck. An exception to this is that in a five player game, Hitler knows who the other Fascists are.
+Hitler does not know who the other Fascists are, but the other Fascists know who all the Fascists are. There is a deck of Liberal and Fascist policies. There are eleven Fascist policies and six Liberal policies in the deck. An exception to this is that in a five player game, Hitler knows who the other Fascist is.
 
 In order to reveal party membership between players, at the start of the game, one player instructs all players to close their eyes and extend their hand. Then, Hitler is instructed to raise their thumb and the other Fascists are instructed to open their eyes. Once all Fascists have made eye contact and know who they are working with, Hitler is instructed to lower their thumb and the other Fascists are instructed to close their eyes. At this point, everyone can open their eyes and the game begins.
 
